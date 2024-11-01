@@ -1,0 +1,4263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 14:22+0000\n"
+"PO-Revision-Date: 2024-06-09 20:55+0000\n"
+"Last-Translator: Tobias support@saleswonder.biz\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4"
+
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:487
+msgid " (Copy)"
+msgstr "(Kopie)"
+
+#: admin/class-wp2leads-admin-ajax.php:3342
+msgid " can not be installed automatically"
+msgstr " kann nicht automatisch installiert werden"
+
+#: admin/class-wp2leads-admin-ajax.php:2310
+msgid " created successfully."
+msgstr " erfolgreich erstellt."
+
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:32
+msgid " days"
+msgstr "Tage"
+
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:35
+msgid " hours"
+msgstr "Stunden"
+
+#: admin/class-wp2leads-admin-ajax.php:1726
+msgid " map(s) deleted successfuly"
+msgstr " Verbindung(en) erfolgreich gelöscht"
+
+#: admin/class-wp2leads-admin-ajax.php:1683
+msgid " maps imported successfuly"
+msgstr " Verbindung erfolgreich importiert"
+
+#: admin/class-wp2leads-admin-ajax.php:964
+#: admin/class-wp2leads-admin-ajax.php:1544
+msgid " Maps successfuly imported from server"
+msgstr " Verbindung erfolgreich vom Server importiert"
+
+#: admin/class-wp2leads-admin-ajax.php:1593
+#: admin/class-wp2leads-admin-ajax.php:1621
+msgid " Maps successfuly updated on server"
+msgstr " Verbindung wurden erfolgreich auf dem Server aktualisiert"
+
+#: admin/class-wp2leads-admin-ajax.php:1593
+#: admin/class-wp2leads-admin-ajax.php:1607
+msgid " Maps successfuly uploaded to server"
+msgstr "Verbindung wurden erfolgreich auf den Server hochgeladen"
+
+#: admin/class-wp2leads-admin.php:996
+msgid " successfully created"
+msgstr "erfolgreich erstellt."
+
+#: admin/class-wp2leads-admin-ajax.php:690
+msgid " successfully terminated"
+msgstr " erfolgreich beendet"
+
+#: admin/class-wp2leads-admin-ajax.php:2231
+msgid " tag(s) out started creating in background successfully."
+msgstr ""
+" tag(s) gestartet hat erfolgreich mit der Erstellung im Hintergrund begonnen."
+
+#: includes/class-wp2leads-i18n.php:87
+msgid " Tags in Klick-Tipp."
+msgstr " Tags in KlickTipp."
+
+#: admin/class-wp2leads-admin.php:722
+#, php-format
+msgid ""
+"%1$s is <strong>deprecated</strong> since wp2leads version %2$s! Use %3$s "
+"instead."
+msgstr ""
+"%1$s ist <strong> veraltet </strong>, die aktuelle WP2LEADS Version ist %2$s!"
+" Verwende bitte stattdessen Version %3$s."
+
+#: admin/class-wp2leads-admin-ajax.php:1381
+#, php-format
+msgid "%s tags added to Klick-Tipp. Update your settings on Klick-Tipp."
+msgstr ""
+"%s-Tags, die KlickTipp hinzugefügt wurden. Nutze die neuen Tags in KlickTipp."
+
+#: admin/class-wp2leads-admin-ajax.php:1385
+#, php-format
+msgid "%s tags were renamed on Klick-Tipp."
+msgstr "%s-Tags wurden auf KlickTipp umbenannt."
+
+#: includes/class-wp2leads-i18n.php:66
+#: includes/class-wp2leads-magic-import.php:140
+#: admin/partials/wp2leads-admin-handlebars-templates.php:181
+#: admin/partials/wp2leads-admin-handlebars-templates.php:195
+#: admin/partials/wp2leads-admin-handlebars-templates.php:201
+#: admin/partials/wp2leads-admin-handlebars-templates.php:206
+#: admin/partials/wp2leads-admin-handlebars-templates.php:212
+#: admin/partials/wp2leads-admin-handlebars-templates.php:225
+#: admin/partials/wp2leads-admin-handlebars-templates.php:228
+#: admin/partials/wp2leads-admin-handlebars-templates.php:231
+#: admin/partials/wp2leads-admin-handlebars-templates.php:234
+#: admin/partials/wp2leads-admin-handlebars-templates.php:240
+#: admin/partials/wp2leads-admin-handlebars-templates.php:246
+#: admin/partials/wp2leads-admin-handlebars-templates.php:405
+#: admin/partials/wp2leads-admin-handlebars-templates.php:413
+#: admin/partials/wp2leads-admin-runner-map-list.php:18
+#: admin/partials/wp2leads-admin-map_builder-edit.php:156
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:89
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:45
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:122
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:129
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:133
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:140
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:154
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:161
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:183
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:73
+#: admin/partials/wp2leads-admin-map-list.php:19
+#: admin/partials/wp2leads-admin-map_builder-new.php:65
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:125
+msgid "-- Select --"
+msgstr "-- Auswählen --"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:485
+msgid "-- Select field --"
+msgstr "-- Feld auswählen --"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:32
+#: admin/partials/wp2leads-admin-statistics-empty.php:21
+msgid "-- Select Map --"
+msgstr "-- Verbindung auswählen --"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:126
+msgid "-- Select module to transfer data in background"
+msgstr "-- Wähle das Modul --"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:59
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:95
+msgid "-- Select Table From First --"
+msgstr "-- Wähle zuerst die Starttabelle --"
+
+#: includes/library/StatisticsManager.php:178
+msgid "<"
+msgstr "<"
+
+#: admin/class-wp2leads-admin-ajax.php:1765
+msgid "<br><strong>Email field below is not filled for current user.</strong>"
+msgstr ""
+"<br><strong>E-Mail-Feld unten ist für den aktuellen Benutzer nicht "
+"ausgefüllt.</strong>"
+
+#: admin/class-wp2leads-admin-ajax.php:1803
+msgid "<br><strong>Email field below is not filled.</strong>"
+msgstr "<br><strong>E-Mail-Feld unten ist nicht gefüllt.</strong>"
+
+#: admin/class-wp2leads-admin-ajax.php:1797
+msgid "<br><strong>User is not in Klick-Tipp.</strong>"
+msgstr "<br><strong>Kontakt befindet sich nicht in KlickTipp.</strong>"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:41
+msgid ""
+"<small><i>f.e. <strong>if value in </strong> v.usermeta-capabilities <strong>"
+"is like</strong> customer </i></small>"
+msgstr ""
+"<small><i>z.B. <strong>wenn der Wert in</strong> v.usermeta-capabilities wie "
+"„Editor oder Customer (Kunde)“ <strong>ist</strong></i></small>"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:56
+msgid ""
+"<small><i>f.e. <strong>posts.post_type</strong> or <strong>v.usermeta-"
+"first_name</strong></i></small>"
+msgstr ""
+"<small><i>z.B. <strong>posts.post_type</strong> oder <strong>v.usermeta-"
+"first_name</strong></i></small>"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:67
+msgid ""
+"<small><i>f.e. <strong>usermeta.meta_value(concatenated)</strong> or <strong>"
+"terms.name(concatenated)</strong></i></small>"
+msgstr ""
+"<small><i>z.B. <strong>woocommerce_order_items (verkettet)</strong> oder "
+"<strong>terms.name(verkettet)</strong></i></small>"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:106
+msgid ""
+"<span><small><i>f.e. <strong>if value in </strong> v.postmeta-status <strong>"
+"is like</strong> wc-completed </i></small></span>"
+msgstr ""
+"<span><small><i>z.B. <strong>wenn der Wert in</strong> v.postmeta-status wie "
+"„wc-completed“ <strong>ist</strong></i></small></span>"
+
+#: includes/library/StatisticsManager.php:192
+msgid ">"
+msgstr ">"
+
+#: admin/partials/wp2leads-admin-settings.php:432
+#, php-format
+msgid ">= %s (%s latest)"
+msgstr "≥ %s | (Mindest empfohlene Version ist %s) | Deine Version ist:"
+
+#: admin/partials/wp2leads-admin-settings.php:420
+msgid ">= 4.5.0 (latest best)"
+msgstr "≥ 5.x (neuste ist beste, warte jedoch auf das erste Update z.B. 5.2.1)"
+
+#: admin/partials/wp2leads-admin-settings.php:442
+msgid ">= 5.6 (WordPress recommends 7.0+)"
+msgstr ""
+"≥ 5.6 (WordPress empfiehlt 7.2+, warte die erste Updates z.B. 7.2.3 ab)"
+
+#: admin/partials/wp2leads-admin-settings.php:448
+msgid ">= 5.6.0 (WordPress recommends 5.6+)"
+msgstr "≥ 5.6.0 (WordPress empfiehlt 5.6+, MariaDB 5.5+ ist unser Favorit)"
+
+#: admin/partials/wp2leads-admin-settings.php:454
+msgid ">= 64 MB (recomended >= 128 MB)"
+msgstr "≥ 128 MB (Limit unserer Testumgebung) (empfohlen ≥ 256 MB)"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:16
+#: admin/partials/wp2leads-admin-map-list.php:17
+msgid "Action"
+msgstr "Mehrfachaktionen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:62
+#: admin/partials/wp2leads-admin-runner-map-list.php:34
+#: admin/partials/wp2leads-admin-map-list.php:36
+msgid "Actions"
+msgstr "Aktionen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1053
+#: admin/partials/wp2leads-admin-settings.php:181
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: admin/partials/wp2leads-admin-settings.php:129
+msgid "Active"
+msgstr "Aktiv"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:100
+msgid "Active Map"
+msgstr "Aktive Verbindung"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:42
+msgid "Active Opt-In Process:"
+msgstr "Aktiver Opt-in-Prozess:"
+
+#: includes/library/KlickTippManager.php:103
+msgid "Actual subscribers"
+msgstr "Tatsächliche übertragene"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:218
+#: admin/partials/wp2leads-admin-map_builder-edit.php:341
+#: admin/partials/wp2leads-admin-map_builder-edit.php:365
+#: admin/partials/wp2leads-admin-map_builder-edit.php:468
+#: admin/partials/wp2leads-admin-map_builder-additional.php:61
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:72
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:84
+#: admin/partials/wp2leads-admin-map_builder-new.php:108
+#: admin/partials/wp2leads-admin-map_builder-new.php:137
+#: admin/partials/wp2leads-admin-map_builder-new.php:153
+#: admin/partials/wp2leads-admin-map_builder-new.php:241
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:187
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:310
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:331
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:432
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: admin/partials/wp2leads-admin-map_port.php:657
+msgid "Add a link to the page with the example of this form"
+msgstr "Bitte füge einen Link zur Beispiel Seite dieses Formulars hinzu"
+
+#: admin/partials/wp2leads-admin-map_port.php:678
+msgid "Add a link with which somebody can import KT campaign"
+msgstr "Füge einen Link zur KlickTipp-Kampagne hinzu"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:355
+#: admin/partials/wp2leads-admin-map_builder-new.php:148
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:324
+msgid "Add Comparison"
+msgstr "Filter"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:55
+#: admin/partials/wp2leads-admin-handlebars-templates.php:479
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:35
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:100
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:64
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:77
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:92
+msgid "Add Condition"
+msgstr "Bedingung"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:147
+msgid "Add field value to \"LeadValue\""
+msgstr "Addiere den Feldwert zum \"LeadValue\""
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:94
+msgid "Add Item"
+msgstr "Hinzufügen"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:53
+msgid "Add Prefix"
+msgstr "Präfix hinzufügen"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:83
+msgid "Add Separator"
+msgstr "Wert-Trenner setzen"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:57
+msgid "Add Tag Name"
+msgstr "Tag-Name hinzufügen"
+
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:14
+msgid "Add Tags"
+msgstr "Tags hinzufügen"
+
+#: includes/class-wp2leads-catalog.php:303
+msgid "Added redirect after install"
+msgstr "Weiterleitung nach der Installation hinzugefügt"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:7
+msgid "Additional settings"
+msgstr "Zusätzliche Einstellungen"
+
+#: admin/partials/wp2leads-admin-display.php:94
+msgid "Advanced"
+msgstr "Mehr"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1092
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1182
+#: admin/partials/wp2leads-admin-catalog.php:35
+msgid "All"
+msgstr "Alle"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:54
+msgid "All tags from this settings already on KT"
+msgstr "Diese Tags sind bereits alle auf KlickTipp"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:384
+msgid "All Tags generated?"
+msgstr "Alle Tags generiert?"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:50
+msgid ""
+"Already exiting Tags for this E-Mail Address (received from Klick-Tipp):"
+msgstr "Tags dieser E-Mail-Adresse (von KlickTipp empfangen):"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:136
+msgid ""
+"and WP2LEADS will handle the translation into \"KlickTipp\" date & time."
+msgstr ""
+"und WP2LEADS wird die Übersetzung in \"KlickTipp\" Datum & Uhrzeit "
+"übernehmen."
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:421
+msgid "API Fields Types:"
+msgstr "API-Feld-Typ:"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:159
+msgid "Apply date range"
+msgstr "Mit diesem Zeitraum übertragen"
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:20
+msgid "Apply Selections"
+msgstr "Auswahl anwenden"
+
+#: includes/library/ApiHelper.php:1474
+msgid "April"
+msgstr "April"
+
+#: includes/class-wp2leads-i18n.php:67
+msgid ""
+"Are you sure you want to change the starter data? This will remove any "
+"current settings."
+msgstr ""
+"Möchtest die Starttabelle wirklich ändern?<br>Dadurch werden alle "
+"vorhandenen Einstellungen zurückgesetzt."
+
+#: includes/class-wp2leads-i18n.php:64
+msgid ""
+"Are you sure you want to change the starter data? This will remove any "
+"existing relationships."
+msgstr ""
+"Möchtest die Starttabelle wirklich ändern?<br>Dadurch werden alle "
+"vorhandenen Einstellungen zurückgesetzt."
+
+#: includes/class-wp2leads-i18n.php:91
+msgid "Are you sure you want to completely delete this map?"
+msgstr "Möchtest du die Verbindung wirklich löschen?"
+
+#: includes/class-wp2leads-i18n.php:84
+msgid "Are you sure you want to completely delete this maps?"
+msgstr "Möchtest du diese Verbindung wirklich löschen?"
+
+#: includes/class-wp2leads-i18n.php:63
+msgid "Are you sure you want to completely start over?"
+msgstr "Möchtest du wirklich von vorne anfangen?"
+
+#: includes/class-wp2leads-i18n.php:96
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: includes/class-wp2leads-i18n.php:77
+msgid ""
+"Are you sure? Without correct license key you are not be able to activate "
+"your plugin again."
+msgstr ""
+"Bist du sicher? Ohne korrekten Lizenzschlüssel kannst du die Lizenz nicht "
+"mehr aktivieren."
+
+#: includes/library/ApiHelper.php:1478
+msgid "August"
+msgstr "August"
+
+#: includes/class-wp2leads-i18n.php:78
+msgid "Authorization in KlickTipp was successful!"
+msgstr "Die Verbindung mit KlickTipp ist erfolgreich!"
+
+#: admin/class-wp2leads-admin-ajax.php:2935
+msgid "Authorization in KlickTipp was successful!."
+msgstr "Die Verbindung mit KlickTipp war erfolgreich!."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1171
+msgid "Auto create & Replace tags"
+msgstr "Auto Tags & Tags ersetzen"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:14
+msgid "Auto Tags"
+msgstr "Auto Tags"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:20
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:111
+msgid "Automatic create tags and attach to Klick-Tipp user:"
+msgstr ""
+"Automatisches erstellen und setzen von Tags<br>\n"
+"Die erstellten Tags findest du auf KlickTipp.com in der "
+"„Automatisierung/Übersicht Tags“ und die gesetzten Tags bei den "
+"„ContactCloud“ Kontakten:"
+
+#: admin/class-wp2leads-admin-ajax.php:1236
+#: admin/class-wp2leads-admin-ajax.php:1339
+#: admin/class-wp2leads-admin-ajax.php:1359
+msgid "Autotag: "
+msgstr "Autotag: "
+
+#: admin/partials/wp2leads-admin-settings.php:120
+msgid "Available licenses"
+msgstr "Verfügbare Lizenzen"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:13
+#: admin/partials/wp2leads-admin-map-list.php:14
+msgid "Available Maps"
+msgstr "Verfügbare Verbindungen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:231
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:66
+msgid "Background process for this tags set is running."
+msgstr "Der Hintergrundprozess für diese Tags wird ausgeführt."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:136
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:234
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:269
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:310
+msgid ""
+"Background transfer not available right now for this map as far as another "
+"process running."
+msgstr ""
+"Hintergrundübertragung für diese Verbindung ist nicht verfügbar, solange ein "
+"anderer Prozess ausgeführt wird."
+
+#: admin/partials/ajax/running-background-processes.php:12
+msgid "Background transfer running"
+msgstr "Hintergrundübertragung läuft"
+
+#: admin/class-wp2leads-admin-ajax.php:2491
+msgid "Background transferring started"
+msgstr "Hintergrundübertragung gestartet"
+
+#: includes/class-wp2leads-i18n.php:86
+msgid ""
+"Be aware! You delete Tags in Klick-Tipp! Yes, i want to delete selected "
+msgstr ""
+"Sei dir bewusst, du löscht Tags direkt in KlickTipp! <br>Ja, ich möchte "
+"ausgewählte "
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:58
+msgid ""
+"Before starting working with current map, we recommend you to make some "
+"initial settings."
+msgstr ""
+"Bevor du mit der aktuellen Verbindung arbeitest, empfehlen wir dir, alle "
+"Erst-Einstellungen vorzunehmen."
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:139
+msgid ""
+"Best working with our \"CF7 choose your date\" example form. The example you "
+"can find inside the WP2LEADS catalog."
+msgstr ""
+"Am besten arbeitest du mit unserem \"CF7 choose your date\" Beispielformular."
+" Das Beispiel findest du im WP2LEADS Katalog."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:645
+#: admin/partials/wp2leads-admin-handlebars-templates.php:691
+#: admin/partials/wp2leads-admin-handlebars-templates.php:744
+#: admin/partials/wp2leads-admin-handlebars-templates.php:801
+#: admin/partials/wp2leads-admin-handlebars-templates.php:852
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1000
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:258
+msgid "bigger as"
+msgstr "größer als"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:423
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:172
+msgid "bigger than"
+msgstr "größer als"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:166
+msgid "Both fields are optional"
+msgstr "Beide Felder sind optional"
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-business-directory.php:22
+msgid "Business Directory Plugin: Listings list changed"
+msgstr "Business Directory Plug-in: Einträge geändert"
+
+#: admin/partials/wp2leads-admin-map_port.php:278
+msgid "Buy this map"
+msgstr "Diese Verbindung kaufen"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:204
+msgid "Calculate and Transfer all"
+msgstr "Alle berechnen und übertragen"
+
+#: admin/class-wp2leads-admin-ajax.php:257
+msgid "Can not delete this item"
+msgstr "Dieses Element kann nicht gelöscht werden."
+
+#: includes/class-wp2leads-catalog.php:399
+msgid "Can not install the form"
+msgstr "Kann nicht installieren Sie das Formular"
+
+#: admin/class-wp2leads-admin-ajax.php:1738
+msgid "Cannot get tags for current User: "
+msgstr "Tags für den aktuellen Benutzer können nicht empfangen werden: "
+
+#: admin/class-wp2leads-admin-ajax.php:282
+#: admin/class-wp2leads-admin-ajax.php:318
+msgid ""
+"Cannot set tags for current User: <br><strong>Email field below is not "
+"filled.</strong>"
+msgstr ""
+"Tags für den aktuellen Benutzer können nicht angezeigt werden: <br><strong>E-"
+"Mail-Feld unten ist nicht gefüllt.</strong>"
+
+#: admin/class-wp2leads-admin.php:329
+#: admin/partials/wp2leads-admin-display.php:46
+#: admin/partials/wp2leads-admin-catalog.php:19
+msgid "Catalog"
+msgstr "Katalog"
+
+#: includes/class-wp2leads-catalog.php:412
+msgid "CF7 Form"
+msgstr "CF7 Formular"
+
+#: admin/partials/wp2leads-admin-map_port.php:646
+msgid "CF7 form example link"
+msgstr "CF7 Formular Vorschau"
+
+#: admin/class-wp2leads-admin.php:362
+#: admin/partials/wp2leads-admin-changelog.php:112
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/partials/wp2leads-admin-notices.php:255
+#, php-format
+msgid "Check license details %s."
+msgstr "Prüfe die Lizenz Details %s."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1179
+msgid "Check tags settings for map:"
+msgstr "Überprüfe die Tags-Einstellungen für diese Verbindung:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1128
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1131
+msgid "Checking plugins..."
+msgstr "Plugins werden überprüft..."
+
+#: includes/class-wp2leads-i18n.php:75
+#: admin/partials/wp2leads-admin-handlebars-templates.php:621
+#: admin/partials/wp2leads-admin-handlebars-templates.php:664
+#: admin/partials/wp2leads-admin-handlebars-templates.php:717
+#: admin/partials/wp2leads-admin-handlebars-templates.php:777
+#: admin/partials/wp2leads-admin-handlebars-templates.php:828
+#: admin/partials/wp2leads-admin-handlebars-templates.php:918
+#: admin/partials/wp2leads-admin-handlebars-templates.php:974
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:233
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:26
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:48
+msgid "Choose an option"
+msgstr "wählen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1089
+msgid ""
+"Choose one or more fields from which values you want to create tags "
+"(optional)."
+msgstr ""
+"Wählen Sie ein oder mehrere Felder aus, aus denen du Tags erstellen möchten "
+"(optional)."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:342
+msgid "Chosen Key"
+msgstr "Sortierungsschlüssel"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:70
+#: admin/partials/wp2leads-admin-map_builder-new.php:27
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:73
+msgid "Click here!"
+msgstr "Klicke bitte hier!"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:58
+msgid ""
+"Click on x near the tag, to untag the tag for this user instantly in Klick-"
+"Tipp"
+msgstr ""
+"Klicke auf das (x) in der Nähe des Tags, um das Tag für diesen Kontakt "
+"sofort in KlickTipp zu entziehen"
+
+#: admin/partials/wp2leads-admin-settings.php:197
+msgid "Close manage licenses"
+msgstr "Lizenzverwaltung schließen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:124
+msgid "Close Popup"
+msgstr "Pop-up schließen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:54
+msgid "Column"
+msgstr "Spalte(e)"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:239
+#: admin/partials/wp2leads-admin-map_builder-edit.php:276
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:245
+msgid "Column is"
+msgstr "Spaltename (z.B. _key)"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:455
+msgid "Columns:"
+msgstr "Spalten"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:78
+msgid "Comparison"
+msgstr "Filter"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:377
+#: admin/partials/wp2leads-admin-map_builder-new.php:163
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:340
+msgid "Concat results for"
+msgstr ""
+"Verkettete Ergebnisse erkennen z.B. „Produkt A,Produkt B“,  „vegan,"
+"vegetarisch,ohne Gluten“"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:131
+msgid "Concatenated"
+msgstr "Für verkettete Werte:"
+
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:53
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:70
+msgid "Conditions"
+msgstr "Bedingung(en)"
+
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:83
+msgid "Conditions for Do NOT opt-in/transfer this user"
+msgstr "Bedingungen um ein Opt-in und Übertragen zu verhindern"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:48
+msgid "Conditions:"
+msgstr "Bedingung(en):"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:585
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:54
+msgid "Confirmation redirect URL: "
+msgstr ""
+"<strong>Contact Form 7 Weiterleitungs-Links:</strong></br>Bestätigung-Link: "
+
+#: includes/class-wp2leads-magic-import.php:152
+msgid "Connect"
+msgstr "Verbinden"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:481
+msgid "Connect to field in your KT account:"
+msgstr "Stelle eine Verbindung zum Feld in deinem KT-Konto her:"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:594
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:63
+msgid "Contact Form 7 will redirecting after submitting form"
+msgstr ""
+"Nach der Eintragung und dem Absenden des Contact Form 7 Formular wird der "
+"Besucher weitergeleitet."
+
+#: includes/transfer-modules/class-wp2leads-transfer-cfentries-insert-entry.php:22
+msgid "Contact Form Entries: Lead update"
+msgstr "Contact Form 7 & Contact Form Entries Plugin: Lead-Aktualisierung"
+
+#: admin/partials/wp2leads-admin-map_port.php:370
+msgid "Contact Forms Maps"
+msgstr ""
+"Kontaktformular verbinden<br><br>Video: Zeigt wie du jedes CF7 Formular mit "
+"KlickTipp einfach verbinden kannst.<br><a href=\"https://saleswonder.biz/wp-"
+"content/uploads/4free-Contact-Form-7-CF7-Formular-Klick-Tipp-einfach-"
+"verbinden.mp4\" target=\"_blank\">Jetzt hier klicken (Öffnet im neuen Tab)"
+"</a><br>Tipp: Video und dein WordPress nebeneinander anordnen und Schritt "
+"für Schritt durchgehen."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:419
+#: admin/partials/wp2leads-admin-handlebars-templates.php:641
+#: admin/partials/wp2leads-admin-handlebars-templates.php:687
+#: admin/partials/wp2leads-admin-handlebars-templates.php:740
+#: admin/partials/wp2leads-admin-handlebars-templates.php:797
+#: admin/partials/wp2leads-admin-handlebars-templates.php:848
+#: admin/partials/wp2leads-admin-handlebars-templates.php:996
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:254
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:168
+msgid "contains"
+msgstr "enthält"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1109
+msgid "Continue with create Tags"
+msgstr "Weiter klicken um Tags zu erstellen"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:106
+msgid "Convert your time"
+msgstr "Konvertiere deine Zeit"
+
+#: admin/partials/ajax/available_options_page_empty.php:22
+#: admin/partials/ajax/available_options_page_empty.php:40
+msgid "Counting..."
+msgstr "sammelt Daten …"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:279
+msgid "Create All"
+msgstr "Alle erstellen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1085
+msgid "Create form name title as tag and sent tag on each transfer"
+msgstr ""
+"Erstelle den Formulartitel als Tag und sende ihn als Tag bei jeder "
+"Übertragung"
+
+#: admin/partials/wp2leads-admin-map_builder-new.php:34
+msgid "Create Map"
+msgstr "Verbindung erstellen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:276
+msgid "Create Selected"
+msgstr "Ausgewählte erstellen"
+
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:25
+msgid "Create tag"
+msgstr "Erstelle Tag"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:209
+msgid "Create Tags"
+msgstr "Erstelle Tags"
+
+#: admin/partials/wp2leads-admin-map_builder-new.php:25
+msgid "Creating own Map only in paid versions"
+msgstr ""
+"Eigene Verbindung können nur mit einer bezahlten WP2LEADS Lizenz erstellt "
+"werden"
+
+#: includes/class-wp2leads-required-plugins.php:218
+msgid "CRM Plugin already activated"
+msgstr "CFE Contact Forms Entries Plugin ist schon aktiv."
+
+#: includes/class-wp2leads-required-plugins.php:231
+msgid "CRM Plugin was installed and activated"
+msgstr "CFE Contact Forms Entries Plugin wurde installiert und aktiviert."
+
+#: includes/class-wp2leads-admin-cron.php:224
+#: includes/library/MapBuilderManager.php:1202
+#: admin/partials/wp2leads-admin-runner-map-list.php:68
+#: admin/partials/wp2leads-admin-runner-map-list.php:75
+#: admin/partials/wp2leads-admin-map_to_api.php:192
+#: admin/partials/wp2leads-admin-map-list.php:56
+#: admin/partials/wp2leads-admin-map_runner.php:74
+#: admin/partials/wp2leads-admin-map_runner.php:84
+msgid "Cron disabled"
+msgstr "Automatisierung wird deaktiviert"
+
+#: includes/class-wp2leads-admin-cron.php:220
+#: includes/library/MapBuilderManager.php:1206
+#: admin/partials/wp2leads-admin-runner-map-list.php:72
+#: admin/partials/wp2leads-admin-map_to_api.php:198
+#: admin/partials/wp2leads-admin-map-list.php:53
+#: admin/partials/wp2leads-admin-map_runner.php:78
+msgid "Cron enabled"
+msgstr "Automatisierung aktiv"
+
+#: includes/class-wp2leads-admin-cron.php:156
+#: includes/class-wp2leads-admin-cron.php:189
+#: admin/partials/wp2leads-admin-runner-map-list.php:60
+#: admin/partials/wp2leads-admin-map_to_api.php:171
+#: admin/partials/wp2leads-admin-map_to_api.php:187
+#: admin/partials/wp2leads-admin-map-list.php:46
+#: admin/partials/wp2leads-admin-map_runner.php:71
+msgid "Cron not set up"
+msgstr "Automatisierung nicht konfiguriert"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:18
+msgid "Cron settings:"
+msgstr ""
+"Automatisierungs-Einstellungen <br>Aktualisierung maximal alle 10 Minuten, "
+"je nach Menge und Serverauslastung"
+
+#: includes/class-wp2leads-admin-cron.php:155
+#: includes/class-wp2leads-admin-cron.php:187
+msgid "Cron task removed successfuly"
+msgstr "Automatisierung erfolgereich deaktiviert"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:46
+msgid "Cron will be disabled"
+msgstr "Automatisierung ca. alle 10 Minuten wird deaktiviert"
+
+#: admin/partials/wp2leads-admin-settings.php:126
+msgid "Current"
+msgstr "Aktuelle Seite"
+
+#: admin/class-wp2leads-admin-ajax.php:851
+msgid "Current contact is up to date - no transfer needed"
+msgstr "Kontakt ist aktuell - keine Übertragung erforderlich"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:86
+msgid "Current Map"
+msgstr "Aktuelle Verbindung"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:77
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:188
+msgid "Current transfer"
+msgstr "Laufende Übertragung"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:99
+msgid "Current user data"
+msgstr "Aktuelle Kontaktdaten"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:522
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:91
+msgid "date"
+msgstr "Datum"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:528
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:97
+msgid "date + time"
+msgstr "Datum + Uhrzeit"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:407
+#: admin/partials/wp2leads-admin-map_builder-new.php:192
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:370
+msgid "Date / Time columns"
+msgstr "Datum/Zeit Spalten"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:484
+#: admin/partials/wp2leads-admin-map_builder-new.php:257
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:448
+msgid "De-Select All"
+msgstr "Alle abwählen"
+
+#: admin/partials/wp2leads-admin-settings.php:188
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: includes/library/ApiHelper.php:1482
+msgid "December"
+msgstr "Dezember"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:513
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:82
+msgid "decimal"
+msgstr "Dezimalzahl"
+
+#: admin/class-wp2leads-admin-ajax.php:3304
+#: admin/partials/wp2leads-admin-handlebars-templates.php:470
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:580
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:65
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:49
+msgid "Default Opt-In Process"
+msgstr "Standard-Opt-in-Prozess"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:552
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:18
+msgid "Default Opt-In Process:"
+msgstr "Standard-Opt-in-Prozess:"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:134
+#: admin/partials/wp2leads-admin-map-list.php:89
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:20
+#: admin/partials/wp2leads-admin-map-list.php:21
+msgid "Delete All"
+msgstr "Alle löschen"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:163
+msgid "Delete item"
+msgstr "Eintrag löschen"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:19
+#: admin/partials/wp2leads-admin-map-list.php:20
+msgid "Delete Selected"
+msgstr "Ausgewählte löschen"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:77
+msgid "Delete selected"
+msgstr "Ausgewählte löschen"
+
+#: admin/class-wp2leads-admin.php:1043
+msgid "Deleted tags: "
+msgstr "Gelöschte Tags: "
+
+#: admin/partials/wp2leads-admin-map_port.php:493
+msgid "Description"
+msgstr "Beschreibung"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:208
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:273
+msgid "Deselect All"
+msgstr "Alle abwählen"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:26
+#: admin/partials/wp2leads-admin-tools.php:24
+msgid "Deselect all"
+msgstr "Alle abwählen"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:87
+msgid "Detach automatic created tags from Klick-Tipp user:"
+msgstr "Automatisches Entziehen der Auto-Tags:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:955
+msgid "Detach this tag:"
+msgstr "Diesen Tag entziehen:"
+
+#: admin/partials/wp2leads-admin-display.php:22
+msgid "Dev mode"
+msgstr "Entwicklermodus"
+
+#: admin/partials/wp2leads-admin-settings.php:371
+msgid "Dev Mode disabled"
+msgstr "Entwicklermodus deaktiviert"
+
+#: admin/partials/wp2leads-admin-settings.php:365
+msgid "Developer Mode"
+msgstr "Entwicklermodus"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:196
+#: admin/partials/wp2leads-admin-map_builder-new.php:90
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:165
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: admin/partials/wp2leads-admin-settings.php:129
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: includes/class-wp2leads-notices.php:166
+msgid "Dismiss"
+msgstr "Ausblenden"
+
+#: includes/class-wp2leads-notices.php:169
+msgid "Dismiss All"
+msgstr "Alle ausblenden"
+
+#: includes/class-wp2leads-i18n.php:90
+#: admin/partials/wp2leads-admin-notices.php:122
+#: admin/partials/wp2leads-admin-notices.php:134
+msgid "Dismiss this notice."
+msgstr "Diesen Hinweis ausblenden."
+
+#: admin/class-wp2leads-admin-ajax.php:1170
+msgid "Don't forget to check Fields setting after changing Replacements"
+msgstr ""
+"Vergesse nicht, die Feldeinstellung nach dem Ändern des Formulars zu "
+"überprüfen"
+
+#: includes/class-wp2leads-i18n.php:65
+msgid "Done"
+msgstr "Erledigt"
+
+#: admin/class-wp2leads-admin-ajax.php:3352
+msgid "Done!"
+msgstr "Fertig!"
+
+#: admin/partials/ajax/running-background-processes.php:73
+msgid "Done:"
+msgstr "Erledigt:"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:113
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:80
+msgid "Duplicate Map"
+msgstr "Dupliziere Verbindung"
+
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:91
+msgid "Duplicated Map"
+msgstr "Duplizierte Verbindung"
+
+#: includes/transfer-modules/class-wp2leads-transfer-ea-new-edit.php:23
+msgid "Easy Appointments: New or edit appointment"
+msgstr "Easy Appointments: Neuer oder bearbeiteter Termin"
+
+#: admin/partials/wp2leads-admin-map-list.php:85
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/class-wp2leads-i18n.php:97
+msgid "Edit Contact Form"
+msgstr "Kontaktformular bearbeiten "
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:125
+msgid "Edit Form"
+msgstr "Formular bearbeiten"
+
+#: includes/class-wp2leads-i18n.php:99
+msgid "Edit map"
+msgstr "Verbindung bearbeiten"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1040
+#: admin/partials/wp2leads-admin-settings.php:26
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:25
+msgid "Email"
+msgstr "E-Mail"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:68
+msgid "Enable cron"
+msgstr "Automatisierung aktivieren"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:43
+msgid "Enable module"
+msgstr "Modul aktivieren"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:140
+msgid "End Date"
+msgstr "Ende:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:402
+msgid "Ensure"
+msgstr "Wenn"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:19
+msgid "Enter Field name"
+msgstr "Feldname eingeben"
+
+#: admin/partials/ajax/available_options.php:44
+#: admin/partials/ajax/available_options_page_empty.php:32
+#: admin/partials/ajax/available_options_page.php:69
+msgid "Enter option name"
+msgstr "Kontaktdaten finden"
+
+#: admin/class-wp2leads-admin.php:831 admin/class-wp2leads-admin.php:840
+#: admin/class-wp2leads-admin.php:1099
+#: admin/partials/wp2leads-admin-map_port.php:128
+#: admin/partials/wp2leads-admin-map_port.php:317
+#: admin/partials/wp2leads-admin-map_port.php:542
+#: admin/partials/wp2leads-admin-map_port.php:553
+msgid "Essential"
+msgstr "essential"
+
+#: includes/class-wp2leads-admin-cron.php:72
+msgid "Every 10 minutes"
+msgstr "Alle 10 Minuten"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:89
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:113
+msgid "Example:"
+msgstr "Zum Beispiel:"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:481
+#: admin/partials/wp2leads-admin-map_builder-new.php:254
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:445
+msgid "Exclude Columns"
+msgstr "Spalten ausschließen"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:429
+#: admin/partials/wp2leads-admin-map_builder-new.php:214
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:393
+msgid "Exclude Columns Filter"
+msgstr "Neue Spalten automatisch hinzufügen "
+
+#: admin/partials/wp2leads-admin-map_port.php:275
+msgid "Exclusive"
+msgstr "Exklusiv"
+
+#: admin/partials/wp2leads-admin-map_builder-buttons.php:20
+#: admin/partials/wp2leads-admin-map_builder-edit.php:59
+#: admin/partials/wp2leads-admin-map_builder-edit.php:541
+#: admin/partials/wp2leads-admin-map_to_api.php:289
+#: admin/partials/wp2leads-admin-map_builder-new.php:317
+#: admin/partials/wp2leads-admin-map_runner.php:115
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:62
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:513
+msgid "Exit Map"
+msgstr "Verbindung verlassen"
+
+#: admin/partials/wp2leads-admin-map_port.php:396
+msgid "Export"
+msgstr "Export"
+
+#: admin/partials/wp2leads-admin-map_port.php:717
+#: admin/partials/wp2leads-admin-map_port.php:721
+msgid "Export Maps"
+msgstr "Verbindung allen zur Verfügung stellen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:900
+msgid "F.e."
+msgstr "z.B."
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:437
+msgid ""
+"f.e.  <strong>_wc_form_field</strong>, <strong>_wpbd_form_field[</strong>"
+msgstr ""
+"z.B. <strong>_wc_form_field</strong>, <strong>_wpbd_form_field[</strong>"
+
+#: admin/partials/wp2leads-admin-map_builder-new.php:222
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:401
+msgid ""
+"f.e. <strong>_wc_form_field</strong>, <strong>_wpbd_form_field[</strong>"
+msgstr ""
+"z.B. <strong>_wc_form_field</strong>, <strong>_wpbd_form_field[</strong>"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:118
+msgid ""
+"f.e. <strong>New order created</strong>, <strong>Order's status is "
+"changed</strong> etc."
+msgstr ""
+"z.B. <strong>Neue Bestellung, neuer Eintrag</strong>, <strong>oder der "
+"Status der Bestellung, des Eintrags hat sich geändert</strong>"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:82
+msgid "f.e. <strong>Sunglasses</strong>, <strong>Accessories</strong> etc."
+msgstr "z.B. <strong>Sonnenbrillen,</strong> <strong>Zubehör</strong> etc."
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:40
+msgid "f.e. <strong>wc-completed</strong>, <strong>customer</strong> etc."
+msgstr "z.B. <strong>wc-completed</strong>, <strong>Kunde</strong> etc."
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:358
+msgid "Failed"
+msgstr "Nicht übertragen"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:41
+msgid "Failed error direct from Klick-Tipp:"
+msgstr ""
+"Obiger Kontakt wurden nicht an KlickTipp übertragen!<br><br>Bei Fehler (8), "
+"schau dir die Werte der Felder an. Meist sind die Fehler falsch befüllt z.B. "
+"sind zwei Werte in einem Datum und Zeit Feld „1554912133; 11“. <br> Bei "
+"Fehler (5), sind meist die E-Mail-Provider auf der Blacklist von Klick Tipp "
+"bsp: @mail.ru, @bk.ru, @mail15.com, @i.ua<br>Hilfe zu anderen Meldungen gibt "
+"hilfe@klick-tipp.com<br><br>Die Klick Tipp API gibt folgende Fehlermeldung "
+"zurück:"
+
+#: includes/library/StatisticsManager.php:63
+#: includes/library/StatisticsManager.php:64
+#: includes/library/KlickTippManager.php:104
+msgid "Failed subscribers"
+msgstr "Nicht übertragene"
+
+#: admin/partials/ajax/running-background-processes.php:77
+msgid "Failed subscribers:"
+msgstr "Nicht übertragene Kontakte:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:92
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:200
+msgid "Failed users"
+msgstr "Nicht übertragene Kontakte"
+
+#: includes/library/ApiHelper.php:1472
+msgid "February"
+msgstr "Februar"
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:16
+msgid "Fetch SQL"
+msgstr "Fetch SQL"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:454
+msgid "Field name:"
+msgstr "Feldname"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:503
+msgid "Field type:"
+msgstr "Feld Typ:"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:82
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:14
+msgid "Fields"
+msgstr "Felder"
+
+#: admin/class-wp2leads-admin-ajax.php:2465
+msgid "Fields updated successfully"
+msgstr "Felder erfolgreich aktualisiert"
+
+#: admin/class-wp2leads-admin.php:437 admin/class-wp2leads-admin-ajax.php:2901
+msgid "Fill in username and password, please."
+msgstr ""
+"Gebe bitte KlickTipp Admin Benutzernamen und Passwort ein. (optional auch "
+"Unterkonto Zugangsdaten möglich: „API User: Nur API“)"
+
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:22
+msgid "Filter and create Tags"
+msgstr "Tags Filtern, Erstellen"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:21
+#: admin/partials/wp2leads-admin-tools.php:22
+msgid "Filter tags..."
+msgstr "Tags filtern..."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:533
+#: admin/partials/wp2leads-admin-handlebars-templates.php:585
+#: admin/partials/wp2leads-admin-handlebars-templates.php:891
+msgid "Filter values"
+msgstr "Filterwerte"
+
+#: admin/partials/ajax/running-background-processes.php:83
+msgid "Finished"
+msgstr "Abgeschlossen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:522
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:64
+msgid "For concatenated values:"
+msgstr "Für verkettete Werte z.B. „grün,blau,gelb“:"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:410
+#: admin/partials/wp2leads-admin-map_builder-new.php:195
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:373
+msgid ""
+"For Cron(automatic transfer) please, choose the transfer/update trigger "
+"\"date + time\" column: e.g. 123761278 or 2018/09/09 14:14:14 like in "
+"\"posts.post_modified\""
+msgstr ""
+"Für die automatische Übertragung wähle bitte die Datum und Zeit Spalte(n): z."
+"B. 123761278 oder 2018/09/09 14:14 wie in \"posts.post _ modified\""
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:557
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:76
+msgid "For custom separated values:"
+msgstr "Für speziell verkettete Werte z.B. „grün;blau;gelb“"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:486
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:54
+msgid "For single values:"
+msgstr ""
+"Für einzelne Werte z.B. grün; wc-completed; Frau oder Mann; DE oder ENG:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:917
+msgid "for values in option"
+msgstr "Spalte(n) "
+
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:80
+msgid "Form ID"
+msgstr "Formular ID"
+
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:81
+msgid "Form URL"
+msgstr "Formular URL"
+
+#: admin/class-wp2leads-admin.php:826 admin/class-wp2leads-admin.php:835
+#: admin/class-wp2leads-admin.php:1094
+#: admin/partials/wp2leads-admin-map_port.php:130
+#: admin/partials/wp2leads-admin-map_port.php:319
+#: admin/partials/wp2leads-admin-map_port.php:543
+#: admin/partials/wp2leads-admin-map_port.php:555
+msgid "Free"
+msgstr "kostenfrei"
+
+#: includes/library/ApiHelper.php:1461
+msgid "Friday"
+msgstr "Freitag"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:68
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:71
+msgid "Full Map adjustment only in paid versions"
+msgstr "Komplette Verbindungs-Anpassung nur in den bezahlten Versionen"
+
+#: admin/partials/wp2leads-admin-map_port.php:255
+msgid "Generate Map"
+msgstr "Verbindung erstellen"
+
+#: includes/class-wp2leads-catalog.php:286
+msgid "Get KT Links"
+msgstr "Holen KT Links"
+
+#: admin/partials/wp2leads-admin-settings.php:177
+msgid "Get license key to your email"
+msgstr "Sende den Lizenzschlüssel an die E-Mail des Käufers."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:108
+msgid "Get Results"
+msgstr "Anzeigen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:269
+msgid "Get Tags"
+msgstr "Tags abrufen"
+
+#: includes/class-wp2leads-catalog.php:196
+msgid "Get template info, please wait"
+msgstr "Lade Verbindungsinformation, bitte warten"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:202
+msgid "Getting your manual tags."
+msgstr "Manuelle Tags abrufen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:75
+msgid "Global Tag Prefix"
+msgstr "Globale-Tag-Vorsilbe(Präfix)"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:117
+#, php-format
+msgid "gmt %s <strong>LOCAL</strong>"
+msgstr "gmt %s <strong>LOKAL</strong>"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:54
+msgid "Group By"
+msgstr "Gruppieren nach"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:180
+#: admin/partials/wp2leads-admin-map_builder-new.php:82
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:149
+msgid "Group Results by"
+msgstr "Ergebnisse nach dieser Spalte sortieren"
+
+#: admin/partials/wp2leads-admin-notices.php:249
+msgid "here"
+msgstr "hier"
+
+#: admin/partials/ajax/available_options.php:40
+#: admin/partials/ajax/available_options_page_empty.php:27
+#: admin/partials/ajax/available_options_page.php:64
+msgid "Hide empty fields"
+msgstr "Leere Felder verbergen"
+
+#: includes/class-wp2leads-i18n.php:82
+#: admin/partials/wp2leads-admin-display.php:99
+msgid "Hide map list"
+msgstr "Verbindungsliste ausblenden"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:516
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:88
+msgid "HTML"
+msgstr "HTML"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wp2leads.com/"
+msgstr "https://wp2leads.com/"
+
+#: admin/partials/ajax/running-background-processes.php:19
+#: admin/partials/ajax/running-background-processes.php:33
+#: admin/partials/ajax/running-background-processes.php:51
+msgid "id"
+msgstr "ID"
+
+#: includes/class-wp2leads-magic-import.php:162
+msgid ""
+"If some forms are not in the list turn them on in the <a href=\"/wp-"
+"admin/admin.php?page=vxcf_leads&tab=settings\" target=\"_blank\">CRM Entries "
+"Settings</a>"
+msgstr ""
+"Wenn einige Formulare nicht in der Liste enthalten sind, <br>aktiviere diese "
+"in den <a href=\"/wp-admin/admin.php?page=vxcf_leads&tab=settings\" "
+"target=\"_blank\">Contact Forms Entries Plug-in Einstellungen. <br>(Kein "
+"Haken dort heißt Formulareinträge werden gespeichert)</a>"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:620
+#: admin/partials/wp2leads-admin-handlebars-templates.php:663
+#: admin/partials/wp2leads-admin-handlebars-templates.php:716
+#: admin/partials/wp2leads-admin-handlebars-templates.php:776
+#: admin/partials/wp2leads-admin-handlebars-templates.php:827
+#: admin/partials/wp2leads-admin-handlebars-templates.php:973
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:232
+msgid "if value in"
+msgstr "Wenn Wert in"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:449
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:125
+msgid ""
+"If you ever want to connect more than one website with same, similar tags "
+"please choose a prefix (f.e. <strong>web1</strong>). So the tags are clean "
+"separated."
+msgstr ""
+"Wenn du jemals mehr als eine Website mit ähnlichen Tags verbinden möchtest, "
+"wähle bitte eine Vorsilbe (z.B. <strong>web1</strong>). Damit sind die Tags "
+"je Webseite und ggf. auch je Plugin, Formular sauber getrennt. <br>Bsp. "
+"„Formular1 vegan“, „Formular1“ ist Vorsilbe und „vegan“ ist das Tag<br>Bsp. "
+"„Web1 Formular1 vegan“, „Web1 Formular1“ ist Vorsilbe und „vegan“ ist das Tag"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:83
+msgid ""
+"If you have low traffic, please, use <a href=\"https://uptimerobot.com/\" "
+"target=\"_blank\">Uptimerobot</a> or other resource to make requests on your "
+"site, because Wordpress Cron working only on hits."
+msgstr ""
+"Wenn du wenig Besucher auf deiner (Test-)Webseite hast, verwende bitte <a "
+"href=\"https://uptimerobot.com/\" target=\"_blank\">Uptimerobot</a> oder "
+"einen der anderen Dienste, um Anfragen an deine Website zu stellen, damit "
+"die Wordpress-Automatisierung kontinulierlich arbeitet."
+
+#: admin/partials/wp2leads-admin-map_port.php:158
+msgid "Import from Map Server"
+msgstr "Verbindung vom WP2LEADS Server laden"
+
+#: includes/class-wp2leads-i18n.php:98
+msgid "Import KT campaign"
+msgstr "Import-KT-Kampagne"
+
+#: admin/partials/wp2leads-admin-map_port.php:359
+msgid "Import Map"
+msgstr "Verbindung vom Server laden"
+
+#: admin/partials/wp2leads-admin-notices.php:160
+msgid ""
+"In 24 hours your license will be removed completely (no server response)."
+msgstr "In 24 Stunden wird deine Lizenz komplett entfernt."
+
+#: admin/partials/wp2leads-admin-settings.php:174
+msgid ""
+"In order to manage your licenses, please input your correct license key."
+msgstr ""
+"Um Ihrer Lizenzen zu verwalten, gebe bitte den vollständigen Lizenz-"
+"Schlüssel an."
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:257
+msgid ""
+"In order to prevent performance issues we are displaying you first <strong "
+"class=\"limit-tags\"></strong> tags out of <strong class=\"all-tags\">"
+"</strong>."
+msgstr ""
+"Um eine hohe Geschwindigkeit des Plug-ins zu gewährleisten zeigen wir nur "
+"die ersten <strong class=\"limit-tags\"></strong> von <strong class=\"all-"
+"tags\"></strong> Tags an."
+
+#: admin/partials/wp2leads-admin-settings.php:391
+msgid "Information about KlickTipp"
+msgstr "Informationen zu KlickTipp"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1034
+#: admin/partials/wp2leads-admin-settings.php:20
+msgid "Information about license"
+msgstr "Informationen zur Lizenz"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:41
+msgid "Initial Settings"
+msgstr "Erst-Einstellungen"
+
+#: admin/class-wp2leads-admin-ajax.php:2770
+msgid "Initial settings saved successfully"
+msgstr "Erst-Einstellungen erfolgreich gespeichert"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:111
+msgid "Initial transfer date range:"
+msgstr ""
+"Übertragungszeitraum für die Erstübertragung <br>zu finden über „Speichern "
+"und Übertragen“, „Alle Kontakte im Hintergrund übertragen“:"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:464
+#: admin/partials/wp2leads-admin-map_builder-new.php:237
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:428
+msgid "Input Filter Value"
+msgstr "Zu filternden Wert eingeben"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:898
+msgid "Input one or more values for filter separated by \"||\""
+msgstr ""
+"Gebe einen oder mehrere Werte für den Filter ein, die durch \"||\" getrennt "
+"sind."
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:69
+msgid "Input search string"
+msgstr "Suchbegriff eingeben"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1137
+msgid "Install"
+msgstr "Installiere"
+
+#: includes/class-wp2leads-magic-import.php:185
+msgid "Install \"CRM Entries\" plugin to use this feature"
+msgstr ""
+"Das Plugin \"Contact Form Entries (CRM Entries)„ wird benötigt um die "
+"Kontaktdaten DSGVO konform abzuspeichern. <br>WP2LEADS wird das für dich "
+"übernehmen."
+
+#: admin/partials/wp2leads-admin-map_port.php:354
+msgid "Install and activate required plugins to unblock maps"
+msgstr ""
+"Unter „Benötigte Plugins“ siehst du erforderliche Plugins, um die Verbindung "
+"zu nutzen. <br>\n"
+"Meist hilft dir WP2LEADS wenn du auf die Checkbox klickst beim Installieren "
+"und Aktivieren fehlender Plugins."
+
+#: admin/partials/wp2leads-admin-map_to_api.php:65
+msgid "Install Plugin(s)"
+msgstr "Plugin(s) installieren"
+
+#: includes/class-wp2leads-magic-import.php:179
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1120
+msgid "Install plugins"
+msgstr "Plugin-ins installieren"
+
+#: includes/class-wp2leads-catalog.php:201
+msgid "Install Template"
+msgstr "Lade Verbindung"
+
+#: includes/class-wp2leads-catalog.php:335
+msgid "Installation started..."
+msgstr "Die Installation wird gestartet..."
+
+#: includes/class-wp2leads-catalog.php:250
+msgid "Installing "
+msgstr "Installieren "
+
+#: includes/class-wp2leads-catalog.php:264
+msgid "Installing Form"
+msgstr "Installieren Form"
+
+#: includes/class-wp2leads-catalog.php:274
+msgid "Installing Map"
+msgstr "Installation Von Map"
+
+#: includes/class-wp2leads-i18n.php:94
+#: admin/partials/wp2leads-admin-map_to_api.php:67
+msgid "Installing..."
+msgstr "Installiere …"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:23
+msgid "Instant transfer settings:"
+msgstr "Echzeit-Übertragungseinstellungen:"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:71
+msgid "Instant transfer will be disabled"
+msgstr "Die „Echzeit-Übertragung“ wird deaktiviert"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:483
+#: admin/partials/wp2leads-admin-map_builder-new.php:256
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:447
+msgid "Invert Selection"
+msgstr "Auswahl umkehren"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:415
+#: admin/partials/wp2leads-admin-handlebars-templates.php:637
+#: admin/partials/wp2leads-admin-handlebars-templates.php:683
+#: admin/partials/wp2leads-admin-handlebars-templates.php:736
+#: admin/partials/wp2leads-admin-handlebars-templates.php:793
+#: admin/partials/wp2leads-admin-handlebars-templates.php:844
+#: admin/partials/wp2leads-admin-handlebars-templates.php:992
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:250
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:164
+msgid "is like"
+msgstr "ist gleich"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:417
+#: admin/partials/wp2leads-admin-handlebars-templates.php:639
+#: admin/partials/wp2leads-admin-handlebars-templates.php:685
+#: admin/partials/wp2leads-admin-handlebars-templates.php:738
+#: admin/partials/wp2leads-admin-handlebars-templates.php:795
+#: admin/partials/wp2leads-admin-handlebars-templates.php:846
+#: admin/partials/wp2leads-admin-handlebars-templates.php:994
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:252
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:166
+msgid "is not like"
+msgstr "ist nicht gleich"
+
+#: includes/class-wp2leads-klicktipp-connector.php:159
+msgid "It is required to specify the correct KlickTipp credentials"
+msgstr ""
+"Gebe bitte den KlickTipp Admin Benutzernamen und Passwort ein. (optional ab "
+"KT enterprice auch Unterkonto Zugangsdaten möglich: „API User: Nur API“)"
+
+#: admin/class-wp2leads-admin-ajax.php:251
+msgid "Item deleted successfuly"
+msgstr "Element erfolgreich gelöscht"
+
+#: includes/library/ApiHelper.php:1471
+msgid "January"
+msgstr "Januar"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:66
+msgid "Joined tables"
+msgstr "Tabellen Verknüpfung"
+
+#: includes/library/ApiHelper.php:1477
+msgid "July"
+msgstr "Juli"
+
+#: includes/library/ApiHelper.php:1476
+msgid "June"
+msgstr "Juni"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:377
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:407
+msgid "Klick Tipp campaign Import:"
+msgstr "KlickTipp-Kampagne Importieren:"
+
+#: admin/class-wp2leads-admin-ajax.php:3302
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:579
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:586
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:590
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:48
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:55
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:59
+msgid "Klick Tipp standard link"
+msgstr "KlickTipp Standard-Link"
+
+#: admin/class-wp2leads-admin.php:430
+msgid "KlickTipp account disabled!"
+msgstr "KlickTipp Verbindung getrennt!"
+
+#: admin/partials/wp2leads-admin-map_to_api-no-login-data.php:17
+msgid "KlickTipp credentials"
+msgstr "KlickTipp-Admin-Zugangsdaten"
+
+#: admin/partials/wp2leads-admin-map_port.php:188
+#: admin/partials/wp2leads-admin-map_port.php:666
+msgid "KT import campaign links"
+msgstr "KlickTipp Kampagnen Links"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1093
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1183
+msgid "Label"
+msgstr "Beschriftung"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:91
+#: admin/partials/wp2leads-admin-statistics-list.php:127
+#: admin/partials/wp2leads-admin-statistics-list.php:183
+#: admin/partials/wp2leads-admin-statistics-empty.php:73
+#: admin/partials/wp2leads-admin-statistics-empty.php:92
+msgid "Last transferred"
+msgstr "Übertragen am"
+
+#: admin/partials/ajax/running-background-processes.php:74
+msgid "Left:"
+msgstr "übrig:"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:79
+msgid "Legend:"
+msgstr "Zeichenerklärung Tags:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:425
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:174
+msgid "less than"
+msgstr "kleiner als"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1045
+#: admin/partials/wp2leads-admin-settings.php:34
+msgid "License key"
+msgstr "Lizenzschlüssel"
+
+#: admin/partials/wp2leads-admin-settings.php:370
+msgid "License level"
+msgstr "Lizenzlevel"
+
+#: admin/partials/wp2leads-admin-settings.php:231
+msgid "License rejected"
+msgstr "Lizenz abgelehnt"
+
+#: admin/partials/wp2leads-admin-settings.php:229
+msgid "License validated"
+msgstr "Lizenz gültig"
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:31
+#: admin/partials/wp2leads-admin-map_runner.php:40
+msgid "Limit results to:"
+msgstr "Maximale Ergebnisse:"
+
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:54
+#, php-format
+msgid "Limit will be reset in %s ."
+msgstr "Limit wird in %s zurückgesetzt."
+
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:45
+#, php-format
+msgid "Limit will be reset in %s."
+msgstr "Limit wird in %s zurückgesetzt."
+
+#: admin/partials/wp2leads-admin-settings.php:225
+msgid "Link is waiting for validation"
+msgstr "Link wartet auf Prüfung"
+
+#: admin/partials/wp2leads-admin-settings.php:269
+msgid "Link to Imprint page"
+msgstr "Link zum Impressum"
+
+#: admin/partials/wp2leads-admin-settings.php:58
+#: admin/partials/wp2leads-admin-settings.php:249
+msgid "Link to Imprint page for current site"
+msgstr "Link zum Impressum der aktiven Seite"
+
+#: admin/partials/wp2leads-admin-settings.php:51
+#: admin/partials/wp2leads-admin-settings.php:216
+msgid ""
+"Link to Klick-Tipp Consultant profile page (<a href=\"https://www.klick-tipp."
+"com/consultants/tobias-b.-conrad\" target=\"_blank\">see example</a>) "
+"<strong>OR</strong> marketing agency home page."
+msgstr ""
+"Link zur KlickTipp Berater Profil-Seite (<a href=\"https://app.klicktipp."
+"com/consultants/tobias-b.-conrad\" target=\"_blank\">siehe Beispiel</a>) "
+"<strong>ODER</strong> Marketing-Agentur oder Multiplikator Webseite."
+
+#: admin/partials/wp2leads-admin-settings.php:237
+msgid ""
+"Link to Klick-Tipp Consultant profile page <strong>OR</strong> marketing "
+"agency home page"
+msgstr ""
+"Link zur KlickTipp Berater Profil-Seite <strong>ODER</strong> Marketing-"
+"Agentur oder Multiplikator Webseite."
+
+#: admin/partials/wp2leads-admin-map_port.php:415
+msgid "Links"
+msgstr "Links"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:293
+msgid "Load filter to clean the tags"
+msgstr "Filter zum Reinigen der Tags laden"
+
+#: admin/partials/wp2leads-admin-catalog.php:45
+msgid "Load More"
+msgstr "Zeig mir mehr"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:124
+#, php-format
+msgid "local %s <strong>GMT</strong>"
+msgstr "local %s <strong>GMT</strong>"
+
+#: admin/partials/wp2leads-admin-map_port.php:380
+msgid "Local Maps"
+msgstr "Lokale Verbindungen"
+
+#: includes/class-wp2leads-klicktipp-connector.php:201
+msgid "Login Failed: "
+msgstr "Anmelden nicht erfolgreich:"
+
+#: includes/class-wp2leads-magic-import.php:103
+#, php-format
+msgid ""
+"Looks like you changed the form. Check Fields setting of the map <a "
+"href=\"/wp-admin/admin.php?page=wp2l-"
+"admin&tab=map_to_api&active_mapping=%s&come_from=wp2l_notice\">%s</a>"
+msgstr ""
+"WP2LEADS Formular Integration: Es sieht so aus, als ob du das Formular "
+"geändert hast. Bitte Tag- und Feld-Einstellungen der Verbindung <a "
+"href=\"/wp-admin/admin.php?page=wp2l-"
+"admin&tab=map_to_api&active_mapping=%s\">%s</a> überprüfen."
+
+#: includes/class-wp2leads-magic-import.php:111
+#, php-format
+msgid ""
+"Looks like you have a new form. You can generate a new map for this form <a "
+"href=\"/wp-admin/admin.php?page=wp2l-"
+"admin&tab=map_port&generate_map=169&form_preselect=%s\">on this page</a>"
+msgstr ""
+"Sieht aus, als hast du ein neues Formular. Du kannst eine Verbindung für "
+"dieses Formular mit KlickTip <a href=\"/wp-admin/admin.php?page=wp2l-"
+"admin&tab=map_port&generate_map=169&form_preselect=%s\">hier herstellen.</a>"
+
+#: admin/partials/wp2leads-admin-map_port.php:411
+msgid "Make exclusive"
+msgstr "Exklusiv machen"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:117
+msgid "Make it my own map"
+msgstr "Zu meiner eigenen Verbindung machen"
+
+#: admin/partials/wp2leads-admin-settings.php:176
+msgid "Manage licenses"
+msgstr "Lizenzen verwalten"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:34
+msgid "Manual Recomended Tags"
+msgstr "Empfohlene Tags vorgeben"
+
+#: admin/partials/wp2leads-admin-notices.php:146
+msgid "Manual timezone offset selected."
+msgstr "Du hast eine manuelle Zeitzonenanpassung ausgewählt (UTC +/-). "
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:372
+msgid "Manually"
+msgstr "Manuell"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:175
+msgid "Manually created tags"
+msgstr "Manuell erstellte Tags"
+
+#: admin/partials/wp2leads-admin-map_port.php:69
+#: admin/partials/wp2leads-admin-map_port.php:185
+#: admin/partials/wp2leads-admin-map_port.php:405
+#: admin/partials/wp2leads-admin-runner-map-list.php:33
+#: admin/partials/wp2leads-admin-statistics-list.php:90
+#: admin/partials/wp2leads-admin-statistics-list.php:182
+#: admin/partials/wp2leads-admin-statistics-empty.php:72
+#: admin/partials/wp2leads-admin-statistics-empty.php:91
+#: admin/partials/wp2leads-admin-map-list.php:35
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:220
+#: admin/partials/ajax/running-background-processes.php:19
+#: admin/partials/ajax/running-background-processes.php:33
+#: admin/partials/ajax/running-background-processes.php:51
+msgid "Map"
+msgstr "Verbindung"
+
+#: includes/class-wp2leads-i18n.php:76
+#: admin/partials/wp2leads-admin-display.php:76
+msgid "Map Builder"
+msgstr "Verbindungsbauplatz"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:111
+msgid "Map Connect"
+msgstr "WP -> KlickTipp"
+
+#: admin/class-wp2leads-admin-ajax.php:582
+msgid "Map deleted"
+msgstr "Verbindung gelöscht"
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:13
+msgid "Map Headstart"
+msgstr "Neue Daten Tabebellen durch Suchen von dummy Werte finden "
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1072
+msgid "Map Import"
+msgstr "Verbindung erstellen"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:514
+#: admin/partials/wp2leads-admin-map_builder-new.php:290
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:478
+msgid "Map Name"
+msgstr "Verbindungsname"
+
+#: admin/partials/wp2leads-admin-display.php:64
+#: admin/partials/wp2leads-admin-map_runner.php:45
+msgid "Map Runner"
+msgstr "Verbindung anzeigen"
+
+#: admin/class-wp2leads-admin-ajax.php:39
+msgid "Map saved"
+msgstr "Verbindung gespeichert"
+
+#: includes/class-wp2leads-i18n.php:81
+msgid "Map successfully deleted!"
+msgstr "Verbindung erfolgreich gelöscht!"
+
+#: includes/class-wp2leads-i18n.php:62
+msgid "Map successfully saved!"
+msgstr "Verbindung erfolgreich gespeichert!"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:192
+#: admin/partials/wp2leads-admin-handlebars-templates.php:224
+#: admin/partials/wp2leads-admin-map_builder-edit.php:251
+msgid "Map Table"
+msgstr "Verbinde Tabelle"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:86
+msgid "Map Tag on KT"
+msgstr "KlickTipp & Kontakt"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:51
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:96
+msgid "Map Tag Prefix"
+msgstr "Tag-Vorsilbe(Präfix)"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:119
+msgid "Map Tag Prefix has higher priority"
+msgstr "Tag-Vorsilbe hat höhere Priorität"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:36
+#: admin/partials/wp2leads-admin-display.php:52
+#: admin/partials/wp2leads-admin-map_runner.php:108
+msgid "Map to API"
+msgstr "WP -> KlickTipp"
+
+#: admin/partials/wp2leads-admin-map_port.php:70
+#: admin/partials/wp2leads-admin-map_port.php:186
+msgid "Map Version"
+msgstr "Lizenz"
+
+#: admin/class-wp2leads-admin-ajax.php:1087
+msgid "Map was imported"
+msgstr "Verbindung wurde importiert"
+
+#: includes/class-wp2leads-admin-cron.php:218
+msgid "Map was successfully scheduled by cron."
+msgstr ""
+"Für diese Verbindung wurde die automatische Übertragung erfolgreich "
+"aktiviert."
+
+#: includes/class-wp2leads-admin-cron.php:222
+msgid "Map was successfully unscheduled by cron."
+msgstr ""
+"Für diese Verbindung wurde die automatische Übertragung erfolgreich "
+"deaktiviert."
+
+#: admin/partials/wp2leads-admin-display.php:70
+msgid "Maps"
+msgstr "Verbindungen"
+
+#: admin/partials/wp2leads-admin-map_port.php:18
+msgid "Maps on Server"
+msgstr "Verbindungen auf dem WP2LEADS Server"
+
+#: admin/class-wp2leads-admin-ajax.php:595
+msgid "Maps successfully terminated"
+msgstr "Verbindung erfolgreich beendet"
+
+#: includes/library/ApiHelper.php:1473
+msgid "March"
+msgstr "März"
+
+#: includes/library/ApiHelper.php:1475
+msgid "May"
+msgstr "Mai"
+
+#: includes/class-wp2leads-transfer-modules.php:80
+msgid "Module disabled  successfully."
+msgstr "Modul erfolgreich deaktiviert."
+
+#: includes/class-wp2leads-transfer-modules.php:78
+msgid "Module enabled successfully."
+msgstr "Modul erfolgreich aktiviert."
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:33
+msgid "Module title"
+msgstr "Modul Name"
+
+#: includes/library/ApiHelper.php:1457
+msgid "Monday"
+msgstr "Montag"
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:50
+msgid "Multi Search"
+msgstr ""
+"Feste Parameter Suchen z.B. „CF7_form1-Werte“ um Felder mit den gewünschten "
+"Werten zu finden"
+
+#: admin/partials/wp2leads-admin-settings.php:48
+#: admin/partials/wp2leads-admin-settings.php:209
+msgid "Multiplicator License info"
+msgstr "Multiplikator Lizenz-info"
+
+#: admin/partials/wp2leads-admin-settings.php:447
+msgid "MySQL Version"
+msgstr "MySQL-Version"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1094
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1184
+msgid "Name"
+msgstr "Name"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1079
+msgid "Name of the map"
+msgstr "Verbindungsname"
+
+#: includes/library/BackgroundProcessManager.php:109
+#: includes/library/StatisticsManager.php:55
+#: includes/library/StatisticsManager.php:56
+#: includes/library/StatisticsManager.php:82
+#: includes/library/KlickTippManager.php:100
+msgid "New subscribers"
+msgstr "Neue Kontakte:"
+
+#: admin/partials/ajax/running-background-processes.php:75
+msgid "New subscribers:"
+msgstr "Neue Kontakte:"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:96
+msgid "New Tag"
+msgstr "Wird KlickTipp hinzugefügt"
+
+#: admin/class-wp2leads-admin.php:996
+msgid "New tag with id "
+msgstr "Neues Tag mit ID"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:458
+msgid ""
+"New tags with new prefix will be created and sent to user of all "
+"maps/current map."
+msgstr ""
+"Neue Tags entstehen durch die Verwendung einer neuen Vorsilbe! Dadurch "
+"müssen ggf. die Startbedinungen in Klick Tipp angepasst werden."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:86
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:194
+msgid "New users"
+msgstr "Neue Kontakte"
+
+#: admin/partials/ajax/available_options.php:38
+#: admin/partials/ajax/available_options_page_empty.php:25
+#: admin/partials/ajax/available_options_page.php:62
+msgid "Newer"
+msgstr "Neuere"
+
+#: includes/library/StatisticsManager.php:192
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: admin/partials/wp2leads-admin-map_runner.php:105
+msgid "Next step"
+msgstr "Nächster Schritt"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:394
+msgid "No"
+msgstr "Noch nicht"
+
+#: admin/partials/wp2leads-admin-map_port.php:171
+msgid "No available maps on server"
+msgstr "Keine Verbindungen auf dem Server verfügbar"
+
+#: admin/class-wp2leads-admin-ajax.php:601
+#: admin/class-wp2leads-admin-ajax.php:639
+msgid "No background transfer currently running."
+msgstr "Derzeit wird keine Hintergrundübertragung ausgeführt."
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:380
+msgid "No cron transfer"
+msgstr "Keine Übertragung bis jetzt"
+
+#: admin/class-wp2leads-admin-ajax.php:145
+msgid "No data for transfer"
+msgstr "Keine zu übertragenden Daten"
+
+#: admin/class-wp2leads-admin-ajax.php:532
+#: admin/class-wp2leads-admin-ajax.php:862
+msgid "No data to transfer"
+msgstr "Keine zu übertragenden Daten"
+
+#: admin/class-wp2leads-admin-ajax.php:263
+msgid "No item ID"
+msgstr "Keine Katalog-ID"
+
+#: admin/partials/wp2leads-admin-select-map.php:10
+#, php-format
+msgid ""
+"No item is currently active. Please select an item below, download a <a "
+"href=\"%s\">new item</a> or <a href=\"https://wp2leads-for-klick-tipp."
+"com/web/let-us-create-a-map-for-you/\" target=\"_blank\">get an item</a> "
+"build for you."
+msgstr ""
+"<strong>Keine Verbindung ist derzeit ausgewählt.</strong> Klicke bitte "
+"\"Verbindungsliste anzeigen\" und wähle dann eine Verbindung aus oder lade "
+"eine <a href=\"%s\">neue Verbindung runter</a> oder lass uns <a href=\"https:"
+"//wp2leads-for-klick-tipp.com/web/let-us-create-a-map-for-you/\" "
+"target=\"_blank\">eine Verbindung für dich erstellen.</a>"
+
+#: admin/partials/wp2leads-admin-notices.php:40
+msgid ""
+"No Klick Tipp yet? Join  <a href=\"https://www.klick-tipp."
+"com/bestellen/15194\" target=\"_blank\">here</a>."
+msgstr ""
+"KlickTipp-Admin-Zugangsdaten für die Übertragung nötig. </br>Gebe hier deine "
+"Zugangsdaten <a href=\"/wp-admin/admin.php?page=wp2l-admin&tab=settings\">"
+"ein.</a> </br>Du hast noch kein Klick Tipp?  <a href=\"https://www.klick-"
+"tipp.com/bestellen/15194\" target=\"_blank\">Jetzt, hier klicken!</a>"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:374
+msgid "No manual transfer"
+msgstr "Keine manuelle Übertragung möglich"
+
+#: admin/class-wp2leads-admin-ajax.php:45
+#: admin/class-wp2leads-admin-ajax.php:151
+#: admin/class-wp2leads-admin-ajax.php:192
+#: admin/class-wp2leads-admin-ajax.php:403
+#: admin/class-wp2leads-admin-ajax.php:538
+#: admin/class-wp2leads-admin-ajax.php:675
+#: admin/class-wp2leads-admin-ajax.php:702
+#: admin/class-wp2leads-admin-ajax.php:749
+#: admin/class-wp2leads-admin-ajax.php:2045
+#: admin/class-wp2leads-admin-ajax.php:2106
+#: admin/class-wp2leads-admin-ajax.php:2384
+#: admin/class-wp2leads-admin-ajax.php:2479
+#: admin/class-wp2leads-admin-ajax.php:2501
+msgid "No map ID"
+msgstr "Keine Verbindung-ID"
+
+#: admin/class-wp2leads-admin-ajax.php:2214
+msgid "No map id"
+msgstr "Keine Verbindung-ID"
+
+#: admin/class-wp2leads-admin-ajax.php:2054
+msgid "No module selected"
+msgstr "Kein Modul ausgewählt"
+
+#: admin/partials/wp2leads-admin-map_port.php:26
+#: admin/partials/wp2leads-admin-notices.php:173
+#: admin/partials/wp2leads-admin-catalog.php:55
+msgid "No response from map server"
+msgstr "Keine Reaktion des Verbindungsservers."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:323
+msgid "No results found. Please update your map!"
+msgstr "Keine Ergebnisse gefunden. Bitte aktualisiere die Verbindung!"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:147
+#: admin/partials/wp2leads-admin-map-list.php:100
+msgid "No stored maps"
+msgstr "Keine gespeicherten Verbindungen"
+
+#: admin/class-wp2leads-admin-ajax.php:756
+msgid "No user email"
+msgstr "Keine Benutzer-E-Mail-Adresse"
+
+#: includes/class-wp2leads-i18n.php:101
+msgid "No value"
+msgstr "Keine Daten"
+
+#: admin/partials/ajax/available_options.php:85
+#: admin/partials/ajax/available_options_page.php:123
+#: admin/partials/ajax/available_options_page.php:130
+msgid "No value for this user"
+msgstr "Kein Wert für diesen Kontakt"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1140
+msgid "No, thanks"
+msgstr "Keine neuen Plug-ins, bitte weiter"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:91
+msgid "Not Attached Tag"
+msgstr "Wird Kontakt hinzugefügt"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:421
+#: admin/partials/wp2leads-admin-handlebars-templates.php:643
+#: admin/partials/wp2leads-admin-handlebars-templates.php:689
+#: admin/partials/wp2leads-admin-handlebars-templates.php:742
+#: admin/partials/wp2leads-admin-handlebars-templates.php:799
+#: admin/partials/wp2leads-admin-handlebars-templates.php:850
+#: admin/partials/wp2leads-admin-handlebars-templates.php:998
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:256
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:170
+msgid "not contains"
+msgstr "enthält nicht"
+
+#: includes/library/ApiHelper.php:1481
+msgid "November"
+msgstr "November"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:510
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:79
+msgid "number"
+msgstr "Zahlen"
+
+#: includes/library/ApiHelper.php:1480
+msgid "October"
+msgstr "Oktober"
+
+#: admin/partials/ajax/available_options.php:37
+#: admin/partials/ajax/available_options_page_empty.php:24
+#: admin/partials/ajax/available_options_page.php:61
+msgid "Older"
+msgstr "Ältere"
+
+#: includes/transfer-modules/class-wp2leads-transfer-ea-new-edit.php:38
+msgid ""
+"Once new appointment created or existed appointment changed data will be "
+"transfered to KT account."
+msgstr ""
+"Dieses Modul überträgt Kontakt- und Termindaten, sobald ein neuer Termin "
+"erstellt oder ein bestehender Terminstatus geändert wurde."
+
+#: includes/transfer-modules/class-wp2leads-transfer-cfentries-insert-entry.php:37
+msgid ""
+"Once new lead created or existed changed user data will be transfered to KT "
+"account."
+msgstr ""
+"Sobald neue Lead erstellt oder vorhanden geändert wird werden die Daten ins "
+"KT-Konto übertragen."
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-business-directory.php:37
+msgid ""
+"Once new listing created or existed changed user data will be transfered to "
+"KT account."
+msgstr ""
+"Sobald eine neue Eintrag erstellt oder aktualisiert wurde werden die "
+"Benutzerdaten auf das Klick Tipp-Konto übertragen."
+
+#: includes/transfer-modules/class-wp2leads-transfer-woo-order-status-changed.php:38
+msgid ""
+"Once new order created or existed order's status changed user data will be "
+"transfered to KT account."
+msgstr ""
+"Sobald eine neue Bestellung erstellt wird oder eine geändert wird werden die "
+"Daten ins KT-Konto übertragen."
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-user-update.php:38
+msgid ""
+"Once new user created or existed user changed data will be transfered to KT "
+"account."
+msgstr ""
+"Sobald ein neuer Benutzer erstellt oder ein existierender geänderte wird "
+"werden die Daten ins KT-Konto übertragen."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:537
+#: admin/partials/wp2leads-admin-handlebars-templates.php:589
+#: admin/partials/wp2leads-admin-handlebars-templates.php:894
+msgid "Only transfer these (otherwise do not transfer these)"
+msgstr "Nur diese Übertragen (sonst nicht diese Übertragen)"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:411
+msgid "Open Campaign"
+msgstr "Kampagne öffnen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:400
+msgid "Open Campaign Again"
+msgstr "Die Kampagne erneut öffnen"
+
+#: admin/partials/wp2leads-admin-notices.php:110
+msgid "Open settings tab"
+msgstr "Dein Einstellungen-Reiter öffnen"
+
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:14
+msgid "Opt-In"
+msgstr "Opt-in"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:55
+msgid "Optin:"
+msgstr "Opt-in:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:504
+#: admin/partials/wp2leads-admin-handlebars-templates.php:542
+#: admin/partials/wp2leads-admin-handlebars-templates.php:595
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/partials/wp2leads-admin-map_runner.php:109
+msgid "or"
+msgstr "oder"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:135
+msgid ""
+"or 21.11.2020 18:30 or 17.11.2020, 12:00 - 14:30 Uhr, Mo 17.11.2020, 12:00 - "
+"14:30 Uhr"
+msgstr ""
+"oder 21.11.2020 18:30 oder 17.11.2020, 12:00 - 14:30 Uhr, Mo 17.11.2020, 12:"
+"00 - 14:30 Uhr"
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:134
+msgid ""
+"or german time like 21.11.2020 + 18:30:00 (From two seperate DB entries)"
+msgstr ""
+"oder deutsche Zeit wie 21.11.2020 + 18:30:00 (Aus zwei getrennten DB-"
+"Einträgen)"
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:85
+msgid "or select table"
+msgstr "Oder wähle eine Tabelle"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:259
+msgid ""
+"Otherwise you can click \"Create all\" button and all tags will be created "
+"in background."
+msgstr ""
+"Andernfalls könntest du auf die Schaltfläche \"Alle erstellen\" klicken und "
+"alle Tags werden im Hintergrund erstellt."
+
+#: includes/library/StatisticsManager.php:184
+msgid "out of"
+msgstr "von"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:39
+msgid "Overview"
+msgstr "Übersicht & Übertragung"
+
+#: admin/partials/wp2leads-admin-map_port.php:90
+msgid "Ovid"
+msgstr "Verbindung Ersteller"
+
+#: admin/partials/wp2leads-admin-map_port.php:292
+#: admin/partials/wp2leads-admin-map_port.php:501
+msgid "Own map"
+msgstr "Eigene oder duplizierte Verbindung"
+
+#: includes/library/StatisticsManager.php:183
+msgid "Page"
+msgstr "Seite"
+
+#: admin/partials/wp2leads-admin-settings.php:400
+#: admin/partials/wp2leads-admin-map_to_api-no-login-data.php:43
+msgid "Password"
+msgstr "Passwort"
+
+#: admin/partials/wp2leads-admin-map_port.php:59
+msgid "Pending Maps"
+msgstr "Ausstehende Verbindung(en)"
+
+#: admin/partials/wp2leads-admin-settings.php:453
+msgid "PHP Memory Limit"
+msgstr "PHP-Memory-Limit"
+
+#: admin/partials/wp2leads-admin-settings.php:441
+msgid "PHP Version"
+msgstr "PHP-Version"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:11
+msgid ""
+"Please be patient and not close or reload the page. Freeze of the browser "
+"tab and browser ask to \"wait or cancel\" is normal. Please click Wait "
+"button to see if finished."
+msgstr ""
+"Bitte habe Geduld und schließe oder lade das Tab nicht neu.<br>Das "
+"Einfrieren des Browser-Tabs und ist normal.<br>Der Browser kann die Meldung "
+"„Warten oder Abbrechen“ anzeigen.<br>Klicke auf „Warten“, um zu sehen ob die "
+"Bearbeitung abgeschlossen ist."
+
+#: includes/class-wp2leads-catalog.php:415
+msgid "Please fill this field"
+msgstr "Bitte dieses Feld füllen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:386
+msgid "Please generated Tags so they can be used in the Klick Tipp Campaign"
+msgstr ""
+"Bitte generiere die Tags, so dass diese in der KlickTipp Kampagne verwendet "
+"werden können."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:459
+msgid ""
+"Please go through all conditions and update to the tag name with new prefix."
+msgstr ""
+"Bitte gehe alle Bedingungen durch und aktualisieren den Tag-Namen mit der "
+"neuen Vorsilbe."
+
+#: wp2leads.php:91
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine.</br></br>On click Skip you loose the free one time offer, "
+"with information about connecting WP plugins with KlickTipp the best. </b>My "
+"knowledge since 2014. Your usage data will be transferred to KlickTipp and "
+"mails are sent from there, you can opt-out anytime.<br><br>Best regards "
+"Tobias - To a good connection<br><br>So please klick <strong>Allow & "
+"Continue</strong> and we connect us in mails."
+msgstr ""
+"Bitte hilf uns, %2$s zu verbessern! Wenn du zustimmst, werden einige Daten "
+"über deine Nutzung von %2$s an %5$s gesendet. Wenn du das überspringst, ist "
+"das okay! %2$s wird trotzdem gut funktionieren.</br></br>Beim Klick auf "
+"Überspringen verlierst du das einmalige kostenlose Angebot, mit besten "
+"Informationen über die Verbindung von WP-Plugins mit KlickTipp. </b>Mein "
+"Wissen seit 2014. Deine Nutzungsdaten werden an KlickTipp übertragen und "
+"Mails werden von dort verschickt, du kannst dich jederzeit abmelden.<br><br>"
+"Mit freundlichen Grüßen Tobias - Auf eine gute Verbindung<br><br>Bitte "
+"klicke auf <strong>Erlauben & Fortfahren</strong> und wir verbinden uns in "
+"den Mails."
+
+#: admin/partials/wp2leads-admin-map_to_api.php:340
+msgid "Please make initial settings to continue working with this map."
+msgstr ""
+"Bitte nimm die ersten Einstellungen vor, um mit dieser Verbindung "
+"weiterzuarbeiten."
+
+#: admin/partials/wp2leads-admin-settings.php:87
+#: admin/partials/wp2leads-admin-settings.php:333
+msgid "Please provide us with a link to the imprint page for each site."
+msgstr "Bitte gebe uns den Link auf das Impressum jeder Website."
+
+#: admin/partials/wp2leads-admin-settings.php:81
+#: admin/partials/wp2leads-admin-settings.php:327
+msgid ""
+"Please provide us with a link to the Klick-Tipp Certified-Consultant "
+"Marketplace or the agency home page."
+msgstr ""
+"Bitte gebe uns den zur KlickTipp Berater Profil-Seite <strong>ODER</strong> "
+"Marketing-Agentur oder Multiplikator Webseite."
+
+#: admin/class-wp2leads-admin-ajax.php:1631
+msgid "Please select at least one map to export"
+msgstr "Bitte wähle mindestens eine Verbindung zum Exportieren aus."
+
+#: admin/class-wp2leads-admin-ajax.php:932
+#: admin/class-wp2leads-admin-ajax.php:1512
+msgid "Please select at least one map to import"
+msgstr "Bitte wähle mindestens eine Verbindung zum Importieren aus."
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:70
+#: admin/partials/wp2leads-admin-map_builder-new.php:27
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:73
+msgid ""
+"Please upgrade to Professional Version to transfer user via OWN created maps."
+msgstr ""
+"Bitte aktualisiere auf die Professional Version, um Kontakte über "
+"eigene/duplizierte Verbindung zu übertragen. <a href=\"https://wp2leads-for-"
+"klick-tipp.com/web/go-pro-plus-get-all-done4u/?utm_source=kunden-"
+"webseite&utm_medium=wp2leads-plugin&utm_campaign=eigene_duplizierte-"
+"Vorlage\" target=\"_ blank\"> Jetzt kaufen </a>, oder <button class=\"button "
+"button-small\" id=\"license-modal-open\"> Lizenz eingeben </button>"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:154
+msgid ""
+"Please upgrade to Professional Version to transfer user via OWN created maps."
+" <a href=\"https://wp2leads.com\" target=\"_blank\">Buy it</a>, or <button "
+"class=\"button button-small\" id=\"license-modal-open\">Enter a "
+"license</button>"
+msgstr ""
+"Bitte aktualisiere auf die Professional Version, um Kontakte über "
+"eigene/duplizierte Verbindung zu übertragen. <a href=\"https://wp2leads.com/?"
+"utm_source=kunden-webseite&utm_medium=wp2leads-"
+"plugin&utm_campaign=eigene_duplizierte-Vorlage\" target=\"_ blank\"> Jetzt "
+"kaufen </a>, oder <button class=\"button button-small\" id=\"license-modal-"
+"open\"> Lizenz eingeben </button>"
+
+#: admin/partials/wp2leads-admin-settings.php:285
+msgid ""
+"Please write to <a href=\"mailto:support@saleswonder.biz\">"
+"Support@saleswonder.biz</a> if you think your license/site should be valid"
+msgstr ""
+"Schreibe uns bitte an <a href=\"mailto:support@saleswonder.biz\">"
+"Support@saleswonder.biz</a> wenn du denkst, dass die Lizenz/Seite gültig "
+"sein sollte."
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:226
+#: admin/partials/wp2leads-admin-map_builder-new.php:114
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:195
+msgid ""
+"Please, avoid using columns with type like: TEXT, LONGTEXT in Joined tables "
+"(the last one dropdown). It could cause crashing of MySQL server."
+msgstr ""
+"Bitte vermeide die Verwendung von Spalten mit Typ wie: TEXT, LONGTEXT im "
+"letzten Dropdown Menü „to“ beim Verbinden von Tabellen. Es könnte zum "
+"Absturz des MySQL-Servers führen."
+
+#: includes/class-wp2leads-i18n.php:89
+msgid "Please, choose one or more trigger from the list."
+msgstr "Bitte wähle für die automatische Übertragung die Datum-Zeit-Spalte(n)"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:44
+msgid "Please, choose the transfer/update trigger date + time column"
+msgstr ""
+"Bitte wähle für die automatische Übertragung die Datum und Zeit Spalte(n)"
+
+#: admin/class-wp2leads-admin-ajax.php:1699
+msgid "Please, select an action"
+msgstr "Bitte wähle eine Aktion aus"
+
+#: admin/class-wp2leads-admin-ajax.php:1710
+msgid "Please, select at least one map"
+msgstr "Bitte wählen Sie mindestens eine Verbindung aus"
+
+#: includes/class-wp2leads-i18n.php:85
+msgid "Please, select one or more tags from the list."
+msgstr "Bitte wählen mindestens eine Verbindung aus, um diese zu Importieren"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1066
+msgid ""
+"Please, visit <a href=\"?page=wp2l-admin&tab=settings\">Settings Page</a>"
+msgstr ""
+"Bitte besuche die <a href=\"?page=wp2l-admin&tab=settings\"> Einstellungs-"
+"Seite </a>"
+
+#: includes/class-wp2leads-i18n.php:95
+msgid "Plugins installed successfully, generate map once more after reload"
+msgstr ""
+"Plugins erfolgreich installiert, Erstellen weiterer Verbindung nach dem "
+"erneuten Laden der Seite"
+
+#: admin/partials/wp2leads-admin-map_port.php:29
+#: admin/partials/wp2leads-admin-notices.php:161
+#: admin/partials/wp2leads-admin-notices.php:174
+#: admin/partials/wp2leads-admin-catalog.php:58
+msgid "Possible reason"
+msgstr "Möglicher Grund"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:465
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:64
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:72
+msgid "Possible Tags from current set of data:"
+msgstr "Mögliche Tags des aktuellen Kontakts:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:492
+#: admin/partials/wp2leads-admin-handlebars-templates.php:528
+#: admin/partials/wp2leads-admin-handlebars-templates.php:568
+#: admin/partials/wp2leads-admin-handlebars-templates.php:876
+#: admin/partials/wp2leads-admin-handlebars-templates.php:944
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:241
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:25
+msgid "Prefix"
+msgstr "Präfix"
+
+#: admin/partials/ajax/running-background-processes.php:20
+#: admin/partials/ajax/running-background-processes.php:34
+msgid "Preparing data to transfer"
+msgstr "Daten-Übertragung wird vorbereitet"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:606
+msgid ""
+"Press Save Setting when all settings will be filled. Skip this if you "
+"understand what will happens."
+msgstr ""
+"Klicke Einstellung Speichern, wenn alle Einstellungen gefüllt wurden. "
+"Überspringe, wenn du verstehst was passiert."
+
+#: includes/library/StatisticsManager.php:178
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: admin/partials/wp2leads-admin-map_port.php:126
+#: admin/partials/wp2leads-admin-map_port.php:315
+#: admin/partials/wp2leads-admin-map_port.php:536
+msgid "Pro"
+msgstr "professionell"
+
+#: admin/class-wp2leads-admin.php:829 admin/class-wp2leads-admin.php:838
+#: admin/class-wp2leads-admin.php:1097
+#: admin/partials/wp2leads-admin-map_port.php:551
+msgid "Professional"
+msgstr "Professionell"
+
+#: admin/partials/wp2leads-admin-notices.php:217
+msgid "Provide us with correct link to Imprint page."
+msgstr "Bitte gebe uns den korrekten Link zum Impressum."
+
+#: admin/partials/wp2leads-admin-notices.php:209
+msgid ""
+"Provide us with correct link to Klick-Tipp Consultant profile page or "
+"marketing agency home page and link to Imprint page."
+msgstr ""
+"Bitte gebe uns den korrekten Link zum KlickTipp-Berater-Profil oder "
+"Marketing-Agentur/Multiplikator Webseite und den Link zum Impressum."
+
+#: admin/partials/wp2leads-admin-notices.php:212
+msgid ""
+"Provide us with correct link to Klick-Tipp Consultant profile page or "
+"marketing agency home page."
+msgstr ""
+"Bitte gebe uns den korrekten Link zum KlickTipp-Berater-Profil oder "
+"Marketing-Agentur/Multiplikator Webseite."
+
+#: admin/partials/wp2leads-admin-map_port.php:511
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: admin/class-wp2leads-admin-ajax.php:139
+#: admin/class-wp2leads-admin-ajax.php:526
+msgid "Ready for transfer"
+msgstr "Bereit für die Übertragung"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1130
+msgid "Recommend plugins"
+msgstr "Empfohlene Plug-ins"
+
+#: includes/class-wp2leads-magic-import.php:165
+msgid "Recommended plugins"
+msgstr "Empfohlene Plugins"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:168
+msgid "Recommended tags:"
+msgstr "Empfohlene Tags vorab in die Tagliste von KlickTipp übertragen:"
+
+#: admin/partials/wp2leads-admin-maptoapi-bg-in-process-notices.php:21
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#: includes/class-wp2leads-i18n.php:72
+msgid "Relation"
+msgstr "Beziehung"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:207
+#: admin/partials/wp2leads-admin-map_builder-new.php:101
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:176
+msgid "Relationship Data"
+msgstr "Tabellen Verknüpfungen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:281
+msgid "Reload Tags from KT"
+msgstr "Tags erneut von KlickTipp laden"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:216
+#: admin/partials/wp2leads-admin-handlebars-templates.php:252
+#: admin/partials/wp2leads-admin-handlebars-templates.php:432
+#: admin/partials/wp2leads-admin-settings.php:140
+#: admin/partials/wp2leads-admin-map_builder-edit.php:327
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:296
+msgid "Remove"
+msgstr "Entfernen"
+
+#: admin/partials/wp2leads-admin-tools.php:25
+msgid "Remove tag"
+msgstr "Tag entfernen"
+
+#: admin/partials/wp2leads-admin-map_port.php:71
+#: admin/partials/wp2leads-admin-map_port.php:187
+#: admin/partials/wp2leads-admin-map_port.php:683
+msgid "Required Plugins"
+msgstr "Benötigte Plugins"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1127
+msgid "Required plugins"
+msgstr "Erforderliches Plugin"
+
+#: includes/transfer-modules/class-wp2leads-transfer-ea-new-edit.php:39
+msgid ""
+"Requirement: <strong>ea_appointments.id</strong> column withing selected "
+"data."
+msgstr ""
+"Anforderung: <strong>ea_appointments.ID-Spalte</strong> unter „Spalten "
+"ausschließen“ nicht anwählen, macht WP2LEADS für dich."
+
+#: includes/transfer-modules/class-wp2leads-transfer-woo-order-status-changed.php:39
+msgid "Requirement: <strong>posts.ID</strong> column withing selected data."
+msgstr ""
+"Anforderung: <strong>posts.ID</strong> unter „Spalten ausschließen“ nicht "
+"anwählen"
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-user-update.php:39
+msgid "Requirement: <strong>users.ID</strong> column withing selected data."
+msgstr ""
+"Anforderung: <strong>users.ID</strong> unter „Spalten ausschließen“ nicht "
+"anwählen"
+
+#: includes/transfer-modules/class-wp2leads-transfer-cfentries-insert-entry.php:38
+msgid ""
+"Requirement: <strong>vxcf_leads.id</strong> column withing selected data."
+msgstr ""
+"Anforderung: <strong>vxcf_leads.id-Spalte</strong> unter „Spalten "
+"ausschließen“ nicht anwählen"
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-business-directory.php:38
+msgid ""
+"Requirement: <strong>wpbdp_listings.listing_id</strong> column withing "
+"selected data."
+msgstr ""
+"Voraussetzung: <strong>wpbdp_listings.listing_id</strong> Spalte in "
+"\"Spalten ausschließen\". Das macht WP2LEADS für dich."
+
+#: admin/partials/wp2leads-admin-settings.php:378
+msgid "Reset"
+msgstr "Reset"
+
+#: admin/partials/wp2leads-admin-map_runner.php:132
+msgid "Result loading."
+msgstr "Lade Ergebnisse ..."
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:39
+msgid "Results"
+msgstr "Ergebnisse"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:102
+msgid "Results summary"
+msgstr "Ergebnisse"
+
+#: admin/partials/wp2leads-admin-runner-map-list.php:22
+#: admin/partials/wp2leads-admin-map_builder-results.php:35
+#: admin/partials/wp2leads-admin-map-list.php:23
+#: admin/partials/wp2leads-admin-map_runner.php:42
+msgid "Run"
+msgstr "Ausführen"
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:13
+msgid "Run Sample Map"
+msgstr "Ergebnisse aktualisieren"
+
+#: admin/partials/ajax/running-background-processes.php:87
+msgid "Running"
+msgstr "Läuft"
+
+#. Author of the plugin
+msgid "Saleswonder.biz Team"
+msgstr "Saleswonder.biz Team"
+
+#: includes/library/ApiHelper.php:1462
+msgid "Saturday"
+msgstr "Samstag"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1198
+#: admin/partials/wp2leads-admin-settings.php:405
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:537
+#: admin/partials/wp2leads-admin-map_to_api.php:282
+#: admin/partials/wp2leads-admin-map_builder-new.php:313
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:509
+msgid "Save and Exit"
+msgstr "Speichern und Beenden"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:76
+msgid "Save cron settings"
+msgstr "Automatisierungs-Einstellungen speichern"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:505
+#: admin/partials/wp2leads-admin-map_builder-edit.php:533
+#: admin/partials/wp2leads-admin-map_builder-new.php:281
+#: admin/partials/wp2leads-admin-map_builder-new.php:309
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:469
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:505
+msgid "Save Map"
+msgstr "Verbindung speichern"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:278
+msgid "Save map"
+msgstr "Verbindung speichern"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:51
+msgid "Save module settings"
+msgstr "Modul-Einstellungen speichern"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:614
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: includes/class-wp2leads-i18n.php:69
+msgid "Saved Successfully!"
+msgstr "Erfolgreich gespeichert!"
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:77
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:103
+msgid "Search"
+msgstr "Suche"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:368
+msgid "See detailed statistics"
+msgstr "Detaillierte Statistiken anzeigen"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:24
+msgid "See statistic for all maps"
+msgstr "Zur Statistik aller Verbindungen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:207
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:271
+#: admin/partials/wp2leads-admin-map_builder-edit.php:482
+#: admin/partials/wp2leads-admin-statistics-list.php:87
+#: admin/partials/wp2leads-admin-statistics-list.php:179
+#: admin/partials/wp2leads-admin-statistics-empty.php:69
+#: admin/partials/wp2leads-admin-statistics-empty.php:88
+#: admin/partials/wp2leads-admin-map_builder-new.php:255
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:446
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:24
+#: admin/partials/wp2leads-admin-tools.php:23
+msgid "Select all"
+msgstr "Alle auswählen"
+
+#: admin/class-wp2leads-admin-ajax.php:2121
+msgid "Select at least one column for set up cron"
+msgstr "Wähle mindestens eine Spalte für die Einrichtung eines Crons"
+
+#: includes/class-wp2leads-i18n.php:80
+msgid "Select at least one map to export"
+msgstr "Bitte wähle mindestens eine Verbindung aus, um diese hochzuladen"
+
+#: admin/class-wp2leads-admin-ajax.php:2221
+#: admin/class-wp2leads-admin-ajax.php:2247
+msgid "Select at least one tag to create"
+msgstr "Wähle mindestens ein zu erstellendes Tag aus."
+
+#: includes/class-wp2leads-i18n.php:92
+msgid "Select form to import."
+msgstr "Bitte wähle mindestens eine Verbindung aus, um diese zu importieren"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:187
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:191
+msgid "Select Group By Column"
+msgstr "Auswählen der Gruppe nach Spalte"
+
+#: admin/class-wp2leads-admin-ajax.php:2018
+#: admin/class-wp2leads-admin-ajax.php:2524
+#: admin/class-wp2leads-admin-ajax.php:2793
+msgid "Select map ID"
+msgstr "Verbindungs-ID auswählen"
+
+#: admin/partials/wp2leads-admin-map_port.php:700
+msgid "Select plugins that are required for this map"
+msgstr "Wähle Plug-ins, die erforderlich sind für diese Verbindung"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:26
+msgid "Select starter data first"
+msgstr "Wähle zuerst die Starttabelle aus"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:195
+msgid "Select Tag Column"
+msgstr "Tag-Spalte auswählen"
+
+#: admin/partials/wp2leads-admin-tools.php:21
+msgid "Select Tags for deletion"
+msgstr "Tags zum Löschen auswählen"
+
+#: admin/partials/wp2leads-admin-map_port.php:384
+msgid "Select the maps you would like to export:"
+msgstr ""
+"Wählen die Verbindung aus, die du hochladen möchtest:<br><br>Mit dem "
+"Hochladen der Verbindung(en) auf den WP2LEADS Vorlagen-Server stimmst du "
+"unserer <a href=„https://wp2leads-for-klick-tipp.com/datenschutz/„ "
+"target=„_blank“>Datenschutzerklärung</a> und den folgenden Punkten zu:<br>"
+"Deine Verbindung wird mit dem Hochladen unter der Open Source Lizenz GNU "
+"General Public License version 3 oder höher der Öffentlichkeit zur freien "
+"Verfügung gestellt. Lizenz nachzulesen unter https://opensource."
+"org/licenses/gpl-3.0.html<br><br>Wir werden dich bei Problemen mit der "
+"Vorlage kontaktieren. Wir speichern deine E-Mail-Adresse (Dieses "
+"Benutzerkontos oder bei aktivierter Lizenz die der Lizenz) innerhalb des "
+"Verbindung-Servers und zeigen diese NICHT mit der Vorlage der Öffentlichkeit."
+"<br><br>Wir verwenden deine E-Mail-Adresse, um dich über die besten "
+"Vorlagenpraktiken über unseren E-Mail-Marketing-Service zu informieren. Du "
+"kannst dich bei jeder gesendeten E-Mail mit einem Klick abmelden.<br><br>"
+"Jede Verbindung wird kontrolliert, ggf. angepasst, ggf. abgelehnt und dann "
+"ggf. freigegeben."
+
+#: admin/partials/wp2leads-admin-settings.php:351
+msgid "Send link for validation"
+msgstr "Sende den Link zur Überprüfung"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:575
+#: admin/partials/wp2leads-admin-handlebars-templates.php:882
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:137
+msgid "Separator"
+msgstr "Für Werte mit Trennzeichen"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:387
+#: admin/partials/wp2leads-admin-map_builder-new.php:172
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:350
+msgid "Separator for concatenated items"
+msgstr "Trennzeichen für verkettete Artikel"
+
+#: includes/library/ApiHelper.php:1479
+msgid "September"
+msgstr "September"
+
+#: includes/class-wp2leads-i18n.php:100
+msgid "Set prefix"
+msgstr "Präfix festlegen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:43
+#: admin/partials/wp2leads-admin-settings.php:12
+#: admin/partials/wp2leads-admin-display.php:88
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/ajax/available_options.php:41
+#: admin/partials/ajax/available_options_page_empty.php:28
+#: admin/partials/ajax/available_options_page.php:65
+msgid "Show all fields"
+msgstr "Alle Felder anzeigen"
+
+#: includes/class-wp2leads-i18n.php:83
+#: admin/partials/wp2leads-admin-display.php:98
+#: admin/partials/wp2leads-admin-display.php:101
+msgid "Show map list"
+msgstr "Verbindungsliste anzeigen"
+
+#: admin/partials/wp2leads-admin-catalog.php:22
+msgid "Show more Instructions"
+msgstr "Zeige mir die Einführung"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:125
+msgid "Single"
+msgstr "Einzelne Werte"
+
+#: admin/partials/wp2leads-admin-settings.php:257
+msgid "Site is waiting for validation"
+msgstr "Seite wartet auf Überprüfung"
+
+#: admin/partials/wp2leads-admin-settings.php:263
+msgid "Site rejected"
+msgstr "Seite abgelehnt"
+
+#: admin/partials/wp2leads-admin-settings.php:261
+msgid "Site validated"
+msgstr "Seite genehmigt"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:210
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:282
+msgid "Skip"
+msgstr "Überspringen!"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:399
+msgid "Skip (press only if you understand what you do)"
+msgstr "Überspringen (drücke nur, wenn du 100% verstehst, was du tust!)"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:162
+msgid "Skip filter"
+msgstr "Überspringe den Filter"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:610
+msgid "Skip Settings"
+msgstr "Einstellungen überspringen! (nicht empfohlen)"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:647
+#: admin/partials/wp2leads-admin-handlebars-templates.php:693
+#: admin/partials/wp2leads-admin-handlebars-templates.php:746
+#: admin/partials/wp2leads-admin-handlebars-templates.php:803
+#: admin/partials/wp2leads-admin-handlebars-templates.php:854
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1002
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:260
+msgid "smaller as"
+msgstr "kleiner als"
+
+#: admin/class-wp2leads-admin.php:343
+msgid "Solution & Support"
+msgstr "Lösung & Unterstützung"
+
+#: includes/class-wp2leads-catalog.php:103
+#: includes/class-wp2leads-transfer-modules.php:93
+#: includes/class-wp2leads-admin-cron.php:239
+#: admin/class-wp2leads-admin-ajax.php:684
+#: admin/class-wp2leads-admin-ajax.php:1646
+#: admin/class-wp2leads-admin-ajax.php:1671
+#: admin/class-wp2leads-admin-ajax.php:2775
+#: admin/class-wp2leads-admin-ajax.php:3330
+msgid "Something went wrong"
+msgstr "Irgendetwas ging schief!"
+
+#: admin/class-wp2leads-admin-ajax.php:951
+#: admin/class-wp2leads-admin-ajax.php:1531
+msgid "Something went wrong, please try later"
+msgstr "Etwas ging schief, bitte versuche es später nochmal"
+
+#: includes/class-wp2leads-i18n.php:70 admin/class-wp2leads-admin-ajax.php:1144
+msgid "Something went wrong."
+msgstr "Irgendetwas ging schief!"
+
+#: admin/class-wp2leads-admin.php:979 admin/class-wp2leads-admin.php:1018
+msgid "Something went wrong... Please, try again letter."
+msgstr "Irgendetwas ist schief gelaufen... Bitte versuche es später erneut."
+
+#: admin/class-wp2leads-admin-ajax.php:2296
+#: admin/class-wp2leads-admin-ajax.php:2339
+#: admin/class-wp2leads-admin-ajax.php:2374
+msgid "Sorry, something went wrong."
+msgstr "Es tut uns leid, es ist etwas schief gelaufen."
+
+#: admin/class-wp2leads-admin-ajax.php:2281
+msgid ""
+"Sorry, we could not connect to your Klick-Tipp account. Please try later."
+msgstr ""
+"Leider konnten wir keine Verbindung zum KlickTipp-Konto herstellen. Bitte "
+"versuche es später nochmal."
+
+#: admin/class-wp2leads-admin.php:330
+msgid "Start"
+msgstr "Starten"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:119
+msgid "Start Date"
+msgstr "Start:"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:388
+msgid "Start Klick-Tipp campaign import?"
+msgstr "Starte den KlickTipp-Kampagnen-Import?"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:135
+#: admin/partials/wp2leads-admin-map_builder-new.php:52
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:104
+msgid "Start Over"
+msgstr "Neu beginnen"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:54
+msgid "Start settings here"
+msgstr "Beginne hier mit den Einstellungen"
+
+#: admin/partials/wp2leads-admin-statistics-empty.php:59
+msgid "Start transfer now"
+msgstr "Übertragung jetzt starten"
+
+#: includes/class-wp2leads-i18n.php:71
+msgid "Starter"
+msgstr "Wähle bitte zuerst die Starttabelle aus"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:145
+#: admin/partials/wp2leads-admin-map_builder-new.php:59
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:114
+msgid "Starter Data"
+msgstr "Start-Tabelle"
+
+#: admin/partials/wp2leads-admin-statistics.php:84
+#: admin/partials/wp2leads-admin-display.php:58
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:53
+#: admin/partials/wp2leads-admin-statistics-empty.php:41
+msgid "Statistics for all maps"
+msgstr "Statistik für alle Verbindungen"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:64
+#: admin/partials/wp2leads-admin-statistics-empty.php:52
+msgid "Statistics for deleted maps"
+msgstr "Statistik für gelöschte Verbindungen"
+
+#: admin/partials/wp2leads-admin-statistics.php:79
+msgid "Statistics for map:"
+msgstr "Statistik für diese Verbindung:"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:93
+#: admin/partials/wp2leads-admin-statistics-list.php:135
+#: admin/partials/wp2leads-admin-statistics-list.php:185
+#: admin/partials/wp2leads-admin-statistics-empty.php:75
+#: admin/partials/wp2leads-admin-statistics-empty.php:94
+msgid "Statistics of the transfer"
+msgstr "Einzel-Statistik"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:331
+msgid "Statistics:"
+msgstr "Statistiken"
+
+#: admin/partials/ajax/running-background-processes.php:78
+msgid "Status: "
+msgstr "Status:"
+
+#: admin/partials/wp2leads-admin-maptoapi-bg-in-process-notices.php:22
+msgid "Stop all transfers"
+msgstr "Alle Übertragungen stoppen"
+
+#: admin/partials/ajax/running-background-processes.php:21
+#: admin/partials/ajax/running-background-processes.php:35
+#: admin/partials/ajax/running-background-processes.php:95
+msgid "Stop transfer"
+msgstr "Übertragung stoppen"
+
+#: admin/partials/wp2leads-admin-map_to_api-no-login-data.php:54
+msgid "Submit"
+msgstr "absenden"
+
+#: includes/class-wp2leads-cron-rest-api.php:93
+#: includes/class-wp2leads-cron-rest-api.php:113
+#: includes/class-wp2leads-rest-api.php:74
+#: includes/class-wp2leads-rest-api.php:94
+#: includes/class-wp2leads-rest-api.php:114
+#: admin/class-wp2leads-admin-ajax.php:391
+#: admin/class-wp2leads-admin-ajax.php:730
+msgid "Success"
+msgstr "Fertig"
+
+#: includes/class-wp2leads-catalog.php:88
+msgid "Successfuly uploaded to server"
+msgstr "Erfolgreich hochgeladen zum server"
+
+#: includes/library/ApiHelper.php:1463
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: admin/class-wp2leads-admin.php:345
+msgid "Support"
+msgstr "Support"
+
+#: admin/partials/wp2leads-admin-map_port.php:601
+#: admin/partials/wp2leads-admin-map_port.php:627
+msgid "Support URL"
+msgstr "Weiterführende Links"
+
+#: admin/partials/wp2leads-admin-settings.php:413
+msgid "System information"
+msgstr "Systeminformationen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:46
+msgid "Table"
+msgstr "Tabelle"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:40
+msgid "Table From"
+msgstr "Starttabelle"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:82
+msgid "Tag already on Klick Tipp"
+msgstr "Tag ist bereits auf KlickTipp"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:87
+msgid "Tag already on Klick Tipp and in current map settings"
+msgstr "Tag bereits auf KlickTipp und beim aktuellen Kontakt"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:102
+msgid "Tag already on Klick Tipp but will be detached after transfering data"
+msgstr ""
+"Tag bereits auf KlickTipp, wird bei der Übertragung dem Kontakt entzogen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:90
+msgid "Tag Column"
+msgstr "Tag-Spalte"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:97
+msgid "Tag not on Klick Tipp, but will be added after transfering data"
+msgstr "Tag nicht auf KlickTipp, wird bei der Übertragung hinzugefügt"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:92
+msgid ""
+"Tag on Klick Tipp, but not attached to current user and will be added after "
+"transfering data"
+msgstr "Tag auf KlickTipp, wird bei der Übertragung dem Kontakt hinzugefügt"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:81
+msgid "Tag on KT"
+msgstr "KlickTipp"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:101
+msgid "Tag to Detach"
+msgstr "Wird dem Kontakt entzogen"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:83
+#: admin/partials/wp2leads-admin-map_to_api.php:385
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:223
+msgid "Tags from:"
+msgstr "Tags von  "
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:67
+msgid "Tags Prefixes:"
+msgstr "Tag Vorsilben:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-mapbuilder.php:13
+msgid "Tags Set Title"
+msgstr "Tag-Gruppen-Name"
+
+#: admin/partials/wp2leads-admin-map_to_api-add-tags.php:17
+msgid "Tags to add when the lead is transferred:"
+msgstr "Tags die wärend der Übertragung hinzugefügt werden:"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:115
+msgid "Tags to add:"
+msgstr "Tags die hinzugefügt werden:"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:18
+msgid "Tags to detach:"
+msgstr "Tags die entzogen werden:"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:148
+msgid "Tags to remove:"
+msgstr "Tags die gelöscht werden sollen:"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:319
+msgid "Tags to replace:"
+msgstr "Zu ersetzende Tags:"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:507
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:76
+msgid "text"
+msgstr "Absatz/Zeile"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:589
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:58
+msgid "Thank You redirect URL: "
+msgstr "Danke-Link: "
+
+#: admin/partials/wp2leads-admin-map_to_api.php:59
+msgid "The next plugins are required for this map: "
+msgstr "Folgende Plugins sind für diese Verbindung notwendig:"
+
+#: admin/partials/wp2leads-admin-notices.php:121
+msgid ""
+"The transfer of contacts stopped, because of an issue with payment. Please "
+"check your emails from support@digistore24.com!"
+msgstr ""
+"Die Übertragung deiner Kontakte wurde eingestellt, wegen eines Problems mit "
+"der Zahlung. Bitte überprüfe deine E-Mails von support@digistore24.com!"
+
+#: admin/partials/wp2leads-admin-notices.php:133
+msgid ""
+"The transfer of contacts will stop soon, because of an issue with payment. "
+"Please check your emails from support@digistore24.com!"
+msgstr ""
+"Die Übertragung von Kontakten wird bald eingestellt, wegen eines Problems "
+"mit der Zahlung. Bitte überprüfe die E-Mails von support@digistore24.com!"
+
+#: includes/class-wp2leads-i18n.php:79
+msgid "The username or password you entered is incorrect!"
+msgstr "Der eingegebene Benutzername oder das eingegebene Kennwort ist falsch!"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-module-settings.php:28
+msgid ""
+"There is module available for this map, which will transfer user data "
+"instantly after some events."
+msgstr ""
+"Für diese Verbindung steht ein Modul zur Verfügung, das Benutzerdaten sofort "
+"nach einem Ereignis überträgt."
+
+#: admin/class-wp2leads-admin-ajax.php:471
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:48
+msgid "There is no data to transfer"
+msgstr "Keine Daten zum Übertragen vorhanden"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:394
+msgid ""
+"There is no results for this map in your DB. You can change settings in map "
+"builder."
+msgstr ""
+"Es liegen keine Daten für diese Verbindungs in der Datenbank vor. Du kannst "
+"z.B. die Filter-Einstellungen im Verbindungsbauplatz ändern. Oder neue Daten "
+"hinzufügen."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:14
+msgid "There is no tags to create"
+msgstr "Keine Tags zum Erstellen vorhanden"
+
+#: admin/partials/wp2leads-admin-settings.php:76
+msgid "Therefore during the next 7 days,"
+msgstr "Daher ist während der nächsten 7 Tage,"
+
+#: admin/partials/wp2leads-admin-settings.php:317
+#, php-format
+msgid "Therefore until <strong>%s</strong>:"
+msgstr "Daher ist bis <strong>%s</strong>:"
+
+#: includes/class-wp2leads-catalog.php:236
+msgid "This map has no import function"
+msgstr "Diese Verbindung hat keine import-Funktion"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:110
+msgid ""
+"This Map is maintained by another user. If you want fully customize it, you "
+"need to duplicate or make it your own."
+msgstr ""
+"Diese Verbindung wird durch einen anderen Benutzer gewartet. Wenn du sie "
+"vollständig anpassen möchtest, dupliziere die Verbindung oder mache sie zu "
+"deiner eigenen."
+
+#: admin/partials/wp2leads-admin-map_to_api.php:52
+msgid "This map is not active:"
+msgstr "Diese Verbindung(en) ist nicht aktiv."
+
+#: admin/class-wp2leads-admin-ajax.php:2193
+msgid ""
+"This module could not be used with this map as far as it doesn't contain "
+"required column."
+msgstr ""
+"Dieses Modul kann mit dieser Verbindung nicht verwendet werden, da es nicht "
+"die erforderlichen Spalte enthält."
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-business-directory.php:36
+msgid "This module is created for Business Directory Plugin maps."
+msgstr ""
+"Dieses Modul wurde für die Business Directory Plug-in Verbindung erstellt."
+
+#: includes/transfer-modules/class-wp2leads-transfer-cfentries-insert-entry.php:36
+msgid "This module is created for Contact Form Entries maps."
+msgstr ""
+"Dieses Modul ist für „Contact Form Entries“-Plugin-Verbindung erstellt "
+"worden. <br>Das Plugin kann mehr als nur Contact Form 7 Formulare anbinden."
+"<br>Von folgende Formular Plugins können Daten übertragen werden: <a "
+"href=\"https://wordpress.org/plugins/contact-form-7/\" target=\"_blank\">"
+"Contact Form 7</a>, <a href=\"https://wordpress.org/plugins/jetpack/\" "
+"target=\"_blank\">JetPack Contact Form</a>, <a href=\"https://wordpress."
+"org/plugins/ninja-forms/\" target=\"_blank\">Ninja Forms</a>, <a "
+"href=\"https://wordpress.org/plugins/formidable/\" target=\"_blank\">"
+"Formidable Forms</a>, <a href=\"http://codecanyon.net/item/quform-wordpress-"
+"form-builder/706149“>Quform</a>, <a href=\"https://wordpress."
+"org/plugins/cforms2/\" target=\"_blank\">cformsII</a>, <a href=\"https:"
+"//wordpress.org/plugins/contact-form-plugin/\" target=\"_blank\">Contact "
+"Form by BestWebSoft</a>, <a href=\"https://wordpress.org/plugins/ultimate-"
+"form-builder-lite/\" target=\"_blank\">Ultimate Form Builder</a>, <a "
+"href=\"https://wordpress.org/plugins/caldera-forms/\" target=\"_blank\">"
+"Caldera Forms</a> and <a href=\"https://wordpress.org/plugins/wpforms-"
+"lite/\" target=\"_blank\">WP Forms</a>"
+
+#: includes/transfer-modules/class-wp2leads-transfer-ea-new-edit.php:37
+msgid "This module is created for Easy Appointments maps."
+msgstr "Dieses Modul wurde für Easy Appointments-Verbindung erstellt."
+
+#: includes/transfer-modules/class-wp2leads-transfer-woo-order-status-changed.php:37
+msgid "This module is created for Woocommerce orders maps."
+msgstr "Dieses Modul wurde für die Woocommerce-Verbindung erstellt."
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-user-update.php:37
+msgid "This module is created for Wordpress user maps."
+msgstr "Dieses Modul wurde für Wordpress-Benutzer-Verbindung erstellt."
+
+#: includes/class-wp2leads-catalog.php:368
+#: admin/class-wp2leads-admin-ajax.php:1465
+msgid "This plugin can not be installed automatically"
+msgstr "Dieses plugin kann nicht installiert werden automatisch"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:56
+#: admin/partials/wp2leads-admin-map_to_api.php:318
+#: admin/partials/wp2leads-admin-map_runner.php:145
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:59
+msgid "This saved map refers to a table no longer present in the database."
+msgstr ""
+"Diese gespeicherte Verbindung bezieht sich auf eine Tabelle, die nicht mehr "
+"in der Datenbank vorhanden ist oder wahr. <br>Idee: Passendes Plugin zur "
+"Verbindung installieren und mit Beispieldaten füllen."
+
+#: admin/partials/wp2leads-admin-statistics-list.php:119
+msgid ""
+"This saved statistics refers to a map no longer present in the database."
+msgstr ""
+"Die Statistik bezieht sich auf eine Verbindung, die nicht mehr in der "
+"Datenbank vorhanden ist."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:270
+msgid "This user can't be Opt-ined according to conditions."
+msgstr ""
+"Die unter „Opt-in“ gesetzen Bedingungen verhindern ein senden und "
+"eingetragen dieses Kontakts."
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:253
+msgid ""
+"This value can be less because of transfer running in background and "
+"transfer scheduled by cron."
+msgstr ""
+"Dieser Wert kann, aufgrund der Hintergrundmassenübertragung und der "
+"geplanten automatischen Übertragung, geringer sein."
+
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:39
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:50
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:52
+msgid "This value will be changed"
+msgstr "Es wird ein Wert geändert!"
+
+#: includes/library/ApiHelper.php:1460
+msgid "Thusday"
+msgstr "Donnerstag"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:525
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:94
+msgid "time"
+msgstr "Zeit"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:203
+#: admin/partials/wp2leads-admin-handlebars-templates.php:230
+#: admin/partials/wp2leads-admin-map_builder-edit.php:262
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:231
+msgid "To"
+msgstr "mit"
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:81
+msgid ""
+"To automatically transfer data you need to choose a \"Date / Time columns\" "
+"or one of the \"transfer modules\" or <a href=\"https://wp2leads-for-klick-"
+"tipp.com/web/let-us-create-a-map-for-you/\" target=\"_blank\">let us create "
+"the connections for you.</a>"
+msgstr ""
+"Für die automatisch Datenübertragung benötigst du mindestens eine \"Datum-/ "
+"Zeit-Spalte\" oder ein \"Transfer Module\" oder <a href=\"https://wp2leads-"
+"for-klick-tipp.com/web/let-us-create-a-map-for-you/\" target=\"_blank\">du "
+"lässt dir eine Verbindung von uns erstellen.</a>"
+
+#: admin/partials/wp2leads-admin-map_builder-headstart.php:9
+msgid ""
+"To get a quick solution please record a <a href=\"https://chrome.google."
+"com/webstore/detail/screencastify-screen-"
+"vide/mmeijimgabbpbgpdklnllpncmdofkcpn\" target=\"_blank\">screencast</a> "
+"with this software, Upload to Google Drive and <a href=\"https://wp2leads-"
+"for-klick-tipp.com/?p=644\" target=\"_blank\">share</a> link with all users "
+"in documentation!"
+msgstr ""
+"Um eine schnelle Lösung aus der Gemeinschaft zu erhalten, nimm ein <a "
+"href=\"https://chrome.google.com/webstore/detail/screencastify-screen-"
+"vide/mmeijimgabbpbgpdklnllpncmdofkcpn\" target=\"_blank\"> Screencast mit "
+"dieser freien Software auf.</a> Laden das Video zu Google Drive hoch und <a "
+"href=\"https://wp2leads-for-klick-tipp.com/?p=644\" target=\"_blank\"> teile "
+"den Link mit allen Benutzern in der Dokumentation! </a>"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:251
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:60
+msgid "To get tags list, click Get tags button"
+msgstr "Um die Tagsliste zu laden, klicke auf Tags abrufen"
+
+#: admin/partials/wp2leads-admin-notices.php:54
+msgid ""
+"To upgrade click <a href=\"https://www.klick-tipp.com/15194\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Zum Erhöhen deines KlickTipp Pakets <a href=\"https://www.klick-tipp."
+"com/15194\" target=\"_blank\">klicke jetzt hier! (Öffnet in neuem Tab)</a>."
+"</br> Schritte: Melde dich an. Wähle im Menü \"Mein Konto\", dann \"Upgrade "
+"/ Downgrade\" und dann dein gewünschtes Paket."
+
+#: admin/partials/wp2leads-admin-settings.php:319
+msgid "To use your Professional version, you need to:"
+msgstr "Um die professionell Version zu nutzen musst du:"
+
+#: admin/partials/wp2leads-admin-map_builder-results.php:22
+#: admin/partials/wp2leads-admin-map_builder-results.php:28
+msgid "Toggle Direct Selection"
+msgstr "Direkte Spalten Auswahl einschalten"
+
+#: admin/partials/wp2leads-admin-tools.php:17
+#: admin/partials/wp2leads-admin-display.php:82
+msgid "Tools"
+msgstr "Tag-Werkzeug"
+
+#: includes/library/BackgroundProcessManager.php:108
+#: includes/library/KlickTippManager.php:99
+msgid "Total Amount"
+msgstr "Gesamt Anzahl"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:341
+msgid "Total amount"
+msgstr "Gesamt"
+
+#: admin/partials/ajax/available_options.php:35
+#: admin/partials/ajax/available_options_page_empty.php:22
+#: admin/partials/ajax/available_options_page.php:59
+msgid "Total entries from Database"
+msgstr "Gesamtzahl der Einträge aus der Datenbank"
+
+#: admin/partials/wp2leads-admin-settings.php:119
+msgid "Total licenses"
+msgstr "Gesamtlizenzen"
+
+#: includes/library/BackgroundProcessManager.php:111
+#: includes/library/StatisticsManager.php:59
+#: includes/library/StatisticsManager.php:60
+#: includes/library/StatisticsManager.php:83
+#: includes/library/KlickTippManager.php:102
+msgid "Total transferred"
+msgstr "Gesamt übertragene"
+
+#: admin/partials/ajax/running-background-processes.php:72
+msgid "Total:"
+msgstr "Gesamt:"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:200
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:227
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:262
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:288
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:303
+msgid "Transfer all immediately"
+msgstr "Alle übertragen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:165
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:218
+msgid "Transfer all users in Background"
+msgstr "Alle Kontakte im Hintergrund übertragen"
+
+#: admin/partials/wp2leads-admin-map_port.php:302
+#: admin/partials/wp2leads-admin-map_port.php:521
+msgid "Transfer allowed"
+msgstr "Transfer erlaubt"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:196
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:223
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:258
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:284
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:299
+msgid "Transfer current"
+msgstr "Geöffneten übertragen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:121
+msgid "Transfer current user"
+msgstr "Übertrage geöffneten Kontakt"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:72
+msgid "Transfer current user data to Klick Tipp"
+msgstr "Übertrage geöffneten Kontakt"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:142
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:176
+msgid "Transfer data to Klick Tipp"
+msgstr "Daten zu KlickTipp übertragen"
+
+#: admin/class-wp2leads-admin-ajax.php:662
+msgid "Transfer is complete"
+msgstr "Übertragung ist abgeschlossen"
+
+#: admin/class-wp2leads-admin-ajax.php:914
+#: includes/library/MapBuilderManager.php:1172
+msgid "Transfer is not allowed"
+msgstr "Transfer ist nicht erlaubt"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:152
+msgid "Transfer Map only in paid versions"
+msgstr "Datenübertragung mit dieser Verbindung nur mit einer bezahlten Lizenz"
+
+#: includes/library/MapBuilderManager.php:1194
+msgid "Transfer module is active"
+msgstr "Echtzeit-Übertragung ist aktiviert"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:111
+msgid "Transfer modules"
+msgstr "Hintergrund-Transfermodule"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:115
+msgid ""
+"Transfer modules are used to transfer data to KT once some some action is "
+"fired"
+msgstr ""
+"Die Module werden verwendet, um Daten an KT zu übertragen, sobald eine "
+"Aktion ausgelöst wurde"
+
+#: admin/partials/wp2leads-admin-map_port.php:306
+#: admin/partials/wp2leads-admin-map_port.php:525
+msgid "Transfer not allowed"
+msgstr "Transfer nicht erlaubt"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:92
+#: admin/partials/wp2leads-admin-statistics-list.php:131
+#: admin/partials/wp2leads-admin-statistics-list.php:184
+#: admin/partials/wp2leads-admin-statistics-empty.php:74
+#: admin/partials/wp2leads-admin-statistics-empty.php:93
+msgid "Transfer type"
+msgstr "Transfer Art"
+
+#. Description of the plugin
+msgid "Transfer user data from nearly all WordPress Plugins to Klick-Tipp"
+msgstr ""
+"Innovation! Nutzerdaten von vielen WordPress-Plugins an KlickTipp übertragen"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:337
+msgid "Transfered users:"
+msgstr "Übertragene Kontakte"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:83
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:191
+msgid "Transferred"
+msgstr "Übertragen"
+
+#: admin/partials/wp2leads-admin-settings.php:375
+msgid "Try Essential"
+msgstr "Nutze Essential Version"
+
+#: admin/partials/wp2leads-admin-settings.php:374
+msgid "Try Free"
+msgstr "Nutze Freie Version"
+
+#: admin/partials/wp2leads-admin-settings.php:376
+msgid "Try Pro"
+msgstr "Nutze Professionell Version"
+
+#: includes/library/ApiHelper.php:1458
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: admin/partials/wp2leads-admin-map_port.php:270
+#: admin/partials/wp2leads-admin-map_port.php:628
+msgid "Tutorial and support"
+msgstr "Anleitung und Unterstützung"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:440
+msgid "Type something to start..."
+msgstr "Gib etwas ein, um die Feldsuche zu starten…"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:347
+msgid "Unique"
+msgstr "Einmalige"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:48
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:61
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:70
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: admin/partials/wp2leads-admin-settings.php:429
+msgid "unknown"
+msgstr "Unbekannt"
+
+#: admin/partials/wp2leads-admin-map_to_api-untag-tags.php:14
+msgid "Untag Tags"
+msgstr "Tags entziehen"
+
+#: admin/partials/wp2leads-admin-map_port.php:401
+#: admin/partials/wp2leads-admin-settings.php:169
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:544
+msgid "Update KT fields"
+msgstr "Lade die Felder von KlickTipp erneut"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:76
+msgid "Update Map"
+msgstr "Verbindung aktualisieren"
+
+#: includes/class-wp2leads-i18n.php:74
+#: admin/partials/wp2leads-admin-map_builder-results.php:48
+msgid "Update your map to begin showing results!"
+msgstr "Aktualisieren deine Verbindung, um die Ergebnisse zu zeigen!"
+
+#: includes/library/BackgroundProcessManager.php:110
+#: includes/library/KlickTippManager.php:101
+msgid "Updated subscribers"
+msgstr "Aktualisierte"
+
+#: admin/partials/ajax/running-background-processes.php:76
+msgid "Updated subscribers:"
+msgstr "Aktualisierte Kontakte:"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:89
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:197
+msgid "Updated users"
+msgstr "Aktualisierte Kontakte"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:519
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:85
+msgid "url"
+msgstr "URL"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:766
+#: admin/partials/wp2leads-admin-handlebars-templates.php:817
+msgid "Use"
+msgstr "Setze folgendes Tag"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:93
+msgid "Use as starter data"
+msgstr "Als Starttabelle nutzen"
+
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:39
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:50
+#: admin/partials/wp2leads-admin-tags_edit_popup-template.php:52
+msgid "Use old"
+msgstr "Bisherigen Wert nutzen"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:37
+msgid ""
+"Use this section for create tags from standart WP values like: <strong>post "
+"status</strong> or <strong>user capability</strong>"
+msgstr ""
+"Das Ziel ist es diese Tags vorab in KlickTipp anzulegen und sofort als E-"
+"Mail-Trigger zu nutzen, statt erst Bestellungen je Status und Benutzer mit "
+"jeder Benutzerrolle zu erstellen und zu übertragen.<br><br>Verwende diesen "
+"Abschnitt zum Erstellen von Tags aus Werten wie: <strong>post status z.B. wc-"
+"completed, wc-on-hold</strong> oder <strong>Benutzerrollen z.B. "
+"administrator oder editor</strong>."
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:79
+msgid ""
+"Use this section for create tags from user input values like: <strong>post "
+"title</strong> or <strong>category title</strong>"
+msgstr ""
+"Verwende diesen Abschnitt zum Erstellen von Tags aus Benutzereingabewerten "
+"wie: <strong>Produkt-Titel oder</strong>, <strong>Kategorie-Titel</strong> "
+"oder <strong>Formularwerten wie vegan, vegetarisch, gluteinfrei</strong>."
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:433
+#: admin/partials/wp2leads-admin-map_builder-new.php:218
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:397
+msgid ""
+"Use this section for filtering columns that should not be excluded if column "
+"title contains some specific value. Useful for custom forms fields, etc."
+msgstr ""
+"Generell werden alle neuen Spalten ausgeschloßen um die Datenmenge klein "
+"zuhalten. Verwende diesen Filtern um Spalten zu definieren, die nicht "
+"ausgeschlossen werden sollten, wenn der Spaltentitel einen bestimmten Wert "
+"enthält.</br></br>Dies ist nützlich beim Hinzufügen von benutzerdefinierten "
+"Formularfeldern im Business Directory Plugin oder den WP Benutzern usw. "
+"Diese werden dann automatisch im \"WP->Klick Tipp\" Tab angezeigt und können "
+"dann übertragen werden."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:65
+msgid "Used as"
+msgstr "Verwendet als"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:101
+msgid "User email"
+msgstr "E-Mail des Kontakts"
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:38
+msgid "User Email:"
+msgstr "E-Mail:"
+
+#: admin/partials/wp2leads-admin-map_builder-additional.php:75
+msgid "User Input Recomended Tags"
+msgstr "Tags zum vorab übertragen empfehlen"
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:105
+msgid "User tags"
+msgstr "Tags des Kontakts"
+
+#: admin/partials/wp2leads-admin-settings.php:396
+#: admin/partials/wp2leads-admin-map_to_api-no-login-data.php:30
+msgid "Username"
+msgstr "Benutzername (Nur der KlickTipp Admin Benutzer funktioniert!)"
+
+#: includes/class-wp2leads-i18n.php:88
+msgid "Users started transfered in background"
+msgstr "-- Wähle ein Modul —"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:128
+#: admin/partials/wp2leads-admin-map_builder-new.php:48
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:97
+msgid "Utilities"
+msgstr "Werkzeug"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:245
+#: admin/partials/wp2leads-admin-map_builder-edit.php:300
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:269
+msgid "Value is"
+msgstr "Spaltewert (z.B. _value)"
+
+#: admin/partials/wp2leads-admin-map_port.php:407
+msgid "Version (status)"
+msgstr "Status | Version"
+
+#: includes/class-wp2leads-catalog.php:203
+msgid "View Example"
+msgstr "Mehr Infos"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:89
+msgid "View more tables for"
+msgstr "Zeige weitere Tabellen mit"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:86
+msgid "View search results"
+msgstr "Zeige Suchergebnisse"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:112
+msgid "View table"
+msgstr "Zeige ganze Tabelle"
+
+#: includes/class-wp2leads-magic-import.php:179
+msgid "View your plugins"
+msgstr "Zeige deine WP-Plug-ins an"
+
+#: includes/class-wp2leads-i18n.php:73
+msgid "Virtual Relation"
+msgstr ""
+"<strong>Virtuelle Verknüpfungen</strong> <br> Wann ist die Funktion nötig? "
+"Nomalerweise sind die Kontaktdaten eines Kontaktes in einer Zeile. Ist dies "
+"wie bei den User-, Produkt-, … Metas nicht der Fall nutzen wir die Funktion,"
+"<br>um Werte eines Kontakts die in zwei Spalten geschrieben werden z.B. "
+"meta_key, meta_value in eine Zeile zu schreiben. Dann hast du mit dieser "
+"Verknüpfung meta_key als Spalten Namen und meta_value als Spalten Wert "
+"geschrieben."
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:241
+#: admin/partials/wp2leads-admin-map_builder-new.php:129
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:210
+msgid "Virtual relationship"
+msgstr ""
+"<strong>Virtuelle Verknüpfungen</strong> <br> Wann ist die Funktion nötig? "
+"Nomalerweise sind die Kontaktdaten eines Kontaktes in einer Zeile. Ist dies "
+"wie bei den User-, Produkt-, … <strong>Metas</strong> nicht der Fall nutzen "
+"wir die Funktion,<br>um Werte eines Kontakts die in zwei Spalten geschrieben "
+"werden z.B. meta_key, meta_value in eine Zeile zu schreiben. Dann hast du "
+"mit dieser Verknüpfung meta_key als Virtuellen-Spalten-Namen und meta_value "
+"als Spalten-Wert geschrieben."
+
+#: admin/partials/ajax/running-background-processes.php:90
+msgid "Waiting"
+msgstr "Warten"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:397
+msgid "Was Campaign imported?"
+msgstr "Wurde die Kampagne importiert und die Felder angelegt?"
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:10
+msgid ""
+"We are collecting your users data. It could take up to few minutes depending "
+"on your server and number of data in DB."
+msgstr ""
+"WP2LEADS sammeln lokal Kontaktdaten zusammen. </br>Es kann bis zu 30 "
+"Sekunden dauern, </br>abhängig vom Server und der Anzahl der Kontakte in der "
+"Datenbank."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:16
+msgid ""
+"We are preparing your users data for transfering to Klick Tipp. It could "
+"take up to few minutes depending on your server and number of data in DB. "
+"Please be patient and not close or reload the page."
+msgstr ""
+"Das Plugin bereiten deine Kontaktdaten für die Übertragung zu KlickTipp vor. "
+"</br>Es bis zu 30 Sekunden dauern, abhängig vom Server und der Anzahl der "
+"Kontakte in der Datenbank. </br>Bitte habe Geduld und schließe, wechsle oder "
+"lade die Seite nicht neu."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:21
+msgid ""
+"We are starting transfering your users data for to Klick Tipp. It could take "
+"up to few minutes depending on your server and number of data in DB. Please "
+"be patient and not close or reload the page."
+msgstr ""
+"WP2LEADS beginnen mit der Übertragung von Kontakten zu KlickTipp. Es kann "
+"bis 30 Sekunden dauern, abhängig vom Server und der Anzahl der Daten in der "
+"Datenbank. Bitte habe Geduld und schließe, wechsle oder lade die Seite nicht "
+"neu."
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:180
+msgid ""
+"We highly recommend you to create all tags from this list after you set map "
+"prefix. Otherwise you will need to make some settings in tag add / untag "
+"conditions later."
+msgstr ""
+"Es wird dringend empfohlen, alle Tags aus dieser Liste zu erstellen, nachdem "
+"du den Verbindung-Präfix festgelegt hast. <br>Andernfalls müssen einige "
+"Einstellungen bei den Bedingungen im Akkordeon „Tags hinzufügen“ / „Tags "
+"entziehen“ mühsam manuell gesetzt werden."
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:39
+msgid "We recomend you to use instant module instead of cron"
+msgstr ""
+"WP2LEADS empfiehlt, das Echtszeitsübertragungs-Modul anstelle von der "
+"Automatischen(cron)-Ünertragung zu verwenden."
+
+#: admin/partials/wp2leads-admin-notices.php:147
+msgid ""
+"We recommend you to use timezone by searching for your city to always have "
+"the right time e.g. during winter, summer time."
+msgstr ""
+"Empfehlung, die automatische Zeitzone zu verwenden. Suche nach der "
+"Hauptstadt deines Landes z.B. Berlin, um immer die richtige Zeit in WP z.B. "
+"im Winter, Sommer zu haben."
+
+#: admin/partials/wp2leads-admin-map_port.php:740
+#, php-format
+msgid ""
+"We will contact you on issues with the map. We save email address only "
+"inside map server and NOT show it with the map to public. We will use your "
+"email address (%s) to inform you about best map practice via our email "
+"marketing service. You can opt out on every email sent."
+msgstr ""
+"Wir werden dich bei Problemen mit der Verbindung kontaktieren. Wir speichern "
+"deine E-Mail-Adresse nur innerhalb des Vorlagen-Servers und zeigen diese "
+"NICHT mit der Verbindung der Öffentlichkeit. <br><br>Wir verwenden deine E-"
+"Mail-Adresse (%s), um dich über die besten Vorlagenpraktiken über unseren E-"
+"Mail-Marketing-Service zu informieren. Du kannst dich bei jeder gesendeten E-"
+"Mail mit einem Klick abmelden."
+
+#: admin/partials/wp2leads-admin-handlebars-templates.php:1202
+msgid ""
+"We will update your current tags where it is possible instead of creation "
+"new tags."
+msgstr ""
+"Wir benennen deine Tags um wo es möglich ist, statt neue Tags anzulegen."
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:89
+msgid "web1"
+msgstr "web1"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:113
+msgid "web1_form1"
+msgstr "web1_form1"
+
+#: includes/library/ApiHelper.php:1459
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: includes/class-wp2leads-notices.php:252
+#: includes/class-wp2leads-required-plugins.php:213
+msgid ""
+"When Contact Forms Entries plugin is deactivated your forms will not sent "
+"any data to Klick-Tipp! <a href=\"#\" id=\"activateCRM\" data-"
+"message=\"Installing...\">Activate it</a>"
+msgstr ""
+"Das \"Contact Forms Entries\" Plugin ist deaktiviert, deine Formulare senden "
+"keine Daten an Klick-Tipp! <a href=\"#\" id=\"activateCRM\" data-"
+"message=\"Installing...\">Aktivieren</a>"
+
+#: admin/partials/wp2leads-admin-statistics-list.php:153
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:361
+#: admin/partials/ajax/running-background-processes.php:77
+msgid "why failed?"
+msgstr "Warum nicht übertragen?"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:378
+msgid "With cron"
+msgstr "Automatisch"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:431
+msgid ""
+"With this map we have %d extra fields which are not connected to your fields "
+"in Klick Tipp please connect them. You may have to manually create new "
+"fields. Please be aware of the right field type. For the date and time "
+"fields you should check Time Zone after export and change it in the Fields "
+"if need."
+msgstr ""
+"In dieser Verbindung sind %d zusätzliche Felder enthalten, die nicht mit "
+"KlickTipp verbunden sind. Du musst möglicherweise die neuen Felder manuell "
+"erstellen. Beachte bitte dem Feld die richtige Art z.B. \"Datum, Zahl,...\" "
+"zu geben. Bitte überprüfe Datum & Zeit Felder nach der Übertragung eines "
+"Kontakts und ändere es wenn nötig. Prüfe u.a. die korrekte Uhrzeit und nutze "
+"die \"GMT\" Einstellungen um eine Zeitverschiebung auszugleichen."
+
+#: admin/partials/wp2leads-admin-map_port.php:734
+msgid ""
+"With uploading map to map server you agree with our data <a href=\"https:"
+"//wp2leads-for-klick-tipp.com/datenschutz/\" target=\"_blank\">privacy "
+"policy</a> and the points below."
+msgstr ""
+"Mit dem Hochladen der Verbindung auf den WP2LEADS Vorlagen-Server stimmst du "
+"unserer <a href=\"https://wp2leads-for-klick-tipp.com/datenschutz/\" "
+"target=\"_blank\">Datenschutzerklärung</a> und den folgenden Punkten zu:"
+
+#: includes/transfer-modules/class-wp2leads-transfer-woo-order-status-changed.php:23
+msgid "Woocommerce: Order status changed"
+msgstr "Woocommerce: Neue Bestellung und Statusänderung"
+
+#: admin/partials/wp2leads-admin-settings.php:419
+msgid "WordPress Version"
+msgstr "WordPress-Version"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:434
+#: admin/partials/wp2leads-admin-map_builder-new.php:219
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:398
+msgid "Works only with virtual columns."
+msgstr ""
+"</br></br><strong>Funktioniert nur mit virtuellen Spalten z.B.</br>\n"
+"v</br>\n"
+"postmeta-_wpbdp[fields][8]</strong>\n"
+"</br></br>\n"
+"Beispiele von Filterwerten:"
+
+#: includes/transfer-modules/class-wp2leads-transfer-wp-user-update.php:23
+msgid "WP Core: User update"
+msgstr "WP Core: Benutzeraktualisierung"
+
+#. Name of the plugin
+#: admin/partials/wp2leads-admin-notices.php:172
+#: admin/partials/wp2leads-admin-display.php:19
+msgid "WP2LEADS"
+msgstr "WP2LEADS"
+
+#: admin/class-wp2leads-admin-ajax.php:639
+#: admin/partials/wp2leads-admin-notices.php:18
+#: admin/partials/wp2leads-admin-notices.php:39
+#: admin/partials/wp2leads-admin-notices.php:52
+#: admin/partials/wp2leads-admin-notices.php:64
+#: admin/partials/wp2leads-admin-notices.php:77
+#: admin/partials/wp2leads-admin-notices.php:91
+#: admin/partials/wp2leads-admin-notices.php:108
+#: admin/partials/wp2leads-admin-notices.php:120
+#: admin/partials/wp2leads-admin-notices.php:132
+#: admin/partials/wp2leads-admin-notices.php:145
+#: admin/partials/wp2leads-admin-notices.php:159
+#: admin/partials/wp2leads-admin-notices.php:253
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:44
+#: admin/partials/ajax/running-background-processes.php:12
+msgid "WP2Leads"
+msgstr "WP2LEADS"
+
+#: admin/class-wp2leads-admin.php:361
+msgid "WP2LEADS Changelog"
+msgstr "WP2LEADS Changelog"
+
+#: admin/partials/wp2leads-admin-changelog.php:97
+msgid "WP2LEADS Support"
+msgstr "WP2LEADS Support"
+
+#: admin/partials/wp2leads-admin-settings.php:425
+msgid "Wp2Leads Version"
+msgstr "WP2LEADS Version"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:393
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:398
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/partials/wp2leads-admin-settings.php:74
+#: admin/partials/wp2leads-admin-settings.php:313
+msgid ""
+"You activated a Multiplicator License, which allows you to use the license "
+"for all sites you are the owner of."
+msgstr ""
+"Gratuliere ;-) Du hast deine Multiplikator Lizenz aktiviert, die dir die "
+"Nutzung der Lizenz für allen deiner Webseiten erlaubt, von denen du der "
+"Besitzer bist."
+
+#: admin/class-wp2leads-admin-ajax.php:2400
+msgid "You are not allowed to transfer current map"
+msgstr "Diese Verbindung kann nicht übertragen werden"
+
+#: admin/class-wp2leads-admin.php:459
+#: admin/partials/wp2leads-admin-notices.php:53
+msgid ""
+"You are on Klick Tipp Standard package with no API access! To connect please "
+"upgrade at least to Klick Tipp Premium."
+msgstr ""
+"Du nutzt ein KlickTipp Standard-Paket ohne API-Zugriff! </br>Um eine "
+"Verbindung herzustellen, aktualisieren bitte mindestens auf Klick Tipp "
+"Premium!"
+
+#: admin/class-wp2leads-admin-ajax.php:2927
+msgid ""
+"You are on Klick Tipp Standard packed with no API access! To connect please "
+"upgrade at least to Klick Tipp Premium!."
+msgstr ""
+"Du nutzt wahrscheinlich KlickTipp in der Standard Version ohne API-Zugriff! "
+"Um eine Verbindung herzustellen, aktualisiere bitte mindestens auf Klick "
+"Tipp Premium!."
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:133
+msgid ""
+"You can add strotime like 734785638764 or english time like 2020.11.21...."
+msgstr ""
+"Du kannst strotime hinzufügen wie 734785638764 oder englische Zeit wie 2020."
+"11.21...."
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:592
+#: admin/partials/wp2leads-admin-map_to_api-optins.php:61
+msgid "You can change links in double opt in settings in Klick Tipp."
+msgstr ""
+"Du kannst die Links in den Double-opt-in-Einstellungen auf KlickTipp.com "
+"unter \"Automatisierung\" \"Übersicht Double-Opt-in-Prozesse\" ändern."
+
+#: admin/partials/wp2leads-admin-notices.php:148
+msgid ""
+"You can change timezone settings <a href=\"options-general."
+"php#timezone_string\" target=\"_blank\">here.</a>"
+msgstr ""
+"Du kannst die Zeitzone <a href=\"options-general.php#timezone_string\" "
+"target=\"_blank\">hier ändern.</a>"
+
+#: admin/partials/wp2leads-admin-map_builder-edit.php:228
+#: admin/partials/wp2leads-admin-map_builder-new.php:116
+#: admin/partials/wp2leads-admin-map_builder-duplicate.php:197
+msgid "You can check column types in search result in Map Headstart Section."
+msgstr ""
+"Du kannst die Spaltenarten wie „LONG TEXT“ in den Suchergebnisse oben unter "
+"den Spaltennamen sehen."
+
+#: admin/partials/wp2leads-admin-map_to_api-fields.php:130
+msgid ""
+"You can convert date, time and datetime values from local to GMT and gmt to "
+"LOCAL time."
+msgstr ""
+"Du kannst Datums-, Zeit- und Datum&Zeit-Werte von lokal zu GMT und GMT zu "
+"lokaler Zeit konvertieren."
+
+#: admin/class-wp2leads-admin-ajax.php:858
+#: admin/class-wp2leads-admin-ajax.php:910
+msgid "You can not transfer this user"
+msgstr "dieser Benutzer kann nicht übertragen werden"
+
+#: admin/partials/wp2leads-admin-map_to_api-initial-settings.php:258
+msgid ""
+"You can select displayed tags and create them on Klick-Tipp and after that "
+"you can get next tags set and create them."
+msgstr ""
+"Du kannst die angezeigten Tags auswählen und mit KlickTipp erstellen. Danach "
+"kannst du die nächsten Art von Tags z.B. Kategorien auswählen und erstellen."
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:39
+msgid ""
+"You can set up conditions to create new automatic created tags. Otherwise "
+"tags always will be created and added."
+msgstr ""
+"Du kannst Bedingungen einrichten, um neue Tags automatisch je nach "
+"Bedinugung zu übertragen. Andernfalls werden immer Tags erstellt und "
+"hinzugefügt."
+
+#: admin/partials/wp2leads-admin-map_to_api-auto-tags.php:104
+msgid ""
+"You can set up conditions to prevent create new or detach tags from "
+"automatic created."
+msgstr ""
+"Du kannst Bedingungen einrichten, um den Wert zu bestimmen beidem die Tags "
+"ggf. erstellt und hinzugefügt werden."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:149
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:183
+msgid "You can transfer"
+msgstr "Übertragbare Kontakte"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:251
+#, php-format
+msgid ""
+"You can transfer <strong>%s</strong> users out of your <strong>Pro "
+"Version</strong> limit for <strong>%s</strong> users per <strong>%s</strong> "
+"days."
+msgstr ""
+"Du kannst <strong>%s</strong>-Kontakte von <strong>%s-Kontakte</strong> alle "
+"<strong>%s-Tage</strong> übertragen. <a href=\"https://wp2leads-for-klick-"
+"tipp.com/web/go-pro-plus-get-all-done4u/\" target=\"_blank\">Jetzt bitte "
+"hier klicken und Lizenz kaufen und unbegrenzt Daten übertragen.</a>"
+
+#: admin/partials/wp2leads-admin-notices.php:240
+#, php-format
+msgid "You can use Professional license until %s."
+msgstr "Du kannst die Professional-Lizenz bis %s nutzen."
+
+#: admin/partials/wp2leads-admin-statistics-failed-items.php:19
+msgid "You do not have any failed items for current map."
+msgstr "Du hast keine nicht übertragenen Kontakte für diese Verbindung."
+
+#: admin/partials/wp2leads-admin-statistics-empty.php:81
+msgid "You do not have any transfering data."
+msgstr "Du hast noch keine Daten übertragen."
+
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:53
+#, php-format
+msgid ""
+"You have %s users to transfer out of your Pro Version limit for %s users per "
+"%s days."
+msgstr ""
+"Du kannst noch <strong>%s</strong> vom %s-<strong>Kontakten</strong> "
+"übertragen. (Reset des Volumens alle %s-Tage) <br><a href=\"https://wp2leads."
+"com/#preise\" target=\"_blank\">Jetzt hier klicken, Lizenz kaufen und sofort "
+"unbegrenzt Kontakte übertragen.</a>"
+
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:218
+#, php-format
+msgid ""
+"You have <strong>%s</strong> users to transfer out of your <strong>Pro "
+"Version</strong> limit for <strong>%s</strong> users per <strong>%s</strong> "
+"days."
+msgstr ""
+"Du kannst noch <strong>%s</strong> vom %s-<strong>Kontakten</strong> "
+"übertragen. (Reset des Volumens alle %s-Tage) <br><a href=\"https://wp2leads."
+"com/#preise\" target=\"_blank\">Jetzt hier klicken, Lizenz kaufen und sofort "
+"unbegrenzt Kontakte übertragen.</a>"
+
+#: admin/partials/wp2leads-admin-notices.php:253
+msgid "You have an issue with your Multiplicator license."
+msgstr "Es gibt ein Problem mit deiner Multiplikator-Lizenz."
+
+#: admin/partials/wp2leads-admin-handlebars-templates-map_to_api.php:36
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:279
+#, php-format
+msgid ""
+"You have exceeded your <strong>Pro Version</strong> limit for <strong>"
+"%s</strong> users per <strong>%s</strong> days."
+msgstr ""
+"Du hast das <strong>freie Übertragungsvolumen mit allen Pro "
+"Funktionen</strong> von <strong>%s-Kontakten</strong> alle <strong>%s-"
+"Tage</strong> überschritten! <br><a href=\"https://wp2leads.com/#preise\" "
+"target=\"_blank\">Jetzt hier klicken, Lizenz kaufen und sofort unbegrenzt "
+"Kontakte übertragen.</a>"
+
+#: admin/class-wp2leads-admin-ajax.php:813
+#: admin/partials/wp2leads-admin-notices-limit-counter.php:44
+#, php-format
+msgid "You have exceeded your Pro Version limit for %s users per %s days."
+msgstr ""
+"Du hast das <strong>freie Übertragungsvolumen mit allen Pro "
+"Funktionen</strong> von <strong>%s-Kontakten</strong> alle <strong>%s-"
+"Tage</strong> überschritten! <br><a href=\"https://wp2leads.com/#preise\" "
+"target=\"_blank\">Jetzt hier klicken, Lizenz kaufen und sofort unbegrenzt "
+"Kontakte übertragen.</a>"
+
+#: includes/class-wp2leads-maps-activation.php:66
+msgid ""
+"You have maps with no any data for it. To activate and use it you should do "
+"the next:"
+msgstr ""
+"Du hast Verbindungen die noch keine Benutzerdaten enthalten. Um diese "
+"Verbindungen zu aktivieren solltest du folgendes tun:"
+
+#: includes/library/MapsModel.php:367
+#, php-format
+msgid ""
+"You have new fields in your map ID %s, please check them on <a href=\"?"
+"page=wp2l-admin&tab=map_to_api&active_mapping=%s\">Map To API tab</a>."
+msgstr ""
+"Du dein Formular gespeichert und hast ggf. neue Felder, Tags in der "
+"Verbindung %s, bitte überprüfen diese im <a href=\"?page=wp2l-"
+"admin&tab=map_to_api&active_mapping=%s\">WP -> KlickTipp</a>."
+
+#: admin/class-wp2leads-admin-ajax.php:1156
+msgid "You have the map with this name. Choose another name."
+msgstr ""
+"Du hast schon eine Verbindung mit diesem Namen. Wähle einen anderen Namen "
+"aus."
+
+#: admin/partials/wp2leads-admin-notices.php:66
+#: admin/partials/wp2leads-admin-map_to_api-auto-cron-settings.php:27
+#: admin/partials/wp2leads-admin-map_to_api-overview.php:320
+msgid ""
+"You have WP Cron disabled on your site, background and cron transferring "
+"could not be run. Please, remove <strong>\"DISABLE_WP_CRON\"</strong> "
+"constant in your <strong>wp-config.php</strong> file, or set it to <strong>"
+"false</strong>"
+msgstr ""
+"Du hast den WP Cron auf deiner Seite deaktiviert! Hintergrund und Cron-"
+"Übertragung konnten nicht ausgeführt werden. Entferne die <strong> "
+"\"DISABLE_WP_CRON\" </strong> -Konstante in deiner <strong> wp-config.php "
+"</strong> -Datei oder setzen den Wert auf <strong> false </strong>"
+
+#: admin/partials/wp2leads-admin-map_to_api.php:334
+msgid "You must be logged in to KT account to continue working with this map."
+msgstr ""
+"Gebe bitte KlickTipp <strong>Admin</strong> Benutzernamen und Passwort ein "
+"um weiter mit dieser Verbindung zu arbeiten. <br>Damit kann das Plugin Tags "
+"und Felder aus Klick Tipp laden und mit deinen WordPress Kontaktdaten füllen."
+
+#: includes/class-wp2leads-i18n.php:68
+msgid "You must provide a name for the map"
+msgstr "Bitte einen Namen für die Verbindung angeben."
+
+#: includes/class-wp2leads-i18n.php:93
+msgid "You should install and activate required plugins to use this map."
+msgstr ""
+"Du solltest die erforderliche Plugins installieren und aktivieren, um diese "
+"Verbindung zu verwenden."
+
+#: admin/partials/wp2leads-admin-notices.php:80
+#, php-format
+msgid ""
+"Your %s Version is outdated and stopped working! Please update the plugin: "
+"<a href=\"plugins.php?plugin_status=upgrade\">Go to the update.</a>"
+msgstr ""
+"Deine %s Version ist veraltet und funktioniert nicht mehr! Bitte "
+"aktualisieren das Plugin: <a href=\"plugins.php?plugin_status=upgrade\"> zum "
+"Update. </a>"
+
+#: admin/partials/wp2leads-admin-notices.php:94
+#, php-format
+msgid ""
+"Your %s Version nearly outdated and will stopped working with the release of "
+"the next version! Please update the plugin: <a href=\"plugins.php?"
+"plugin_status=upgrade\">Go to the update.</a>"
+msgstr ""
+"Deine %s Version fast veraltet und wird mit der Veröffentlichung der "
+"nächsten Version aufhören! Bitte aktualisieren das Plugin: <a href=\"plugins."
+"php?Plugin_status=Upgrade\"> Zum Update. </a>"
+
+#: admin/partials/wp2leads-admin-notices.php:109
+msgid ""
+"Your activation is in progress. You need to Complete this to securely save "
+"your license data."
+msgstr ""
+"Deine Lizenz ist gültig. Die Lizenzverwaltung ist geöffnet bitte "
+"„Lizenzverwaltung schließen“ klicken um Aktivierung abzuschließen."
+
+#: admin/partials/wp2leads-admin-notices.php:244
+msgid "Your license was deactivated."
+msgstr "Deine Lizenz wurde deaktiviert."
+
+#: admin/partials/wp2leads-admin-notices.php:227
+msgid ""
+"Your link to Klick-Tipp Consultant profile page or marketing agency home "
+"page still not approved."
+msgstr ""
+"Dein Link zum KlickTipp-Berater-Profil oder zur Marketing-"
+"Agentur/Multiplikator Webseite wurde noch nicht genehmigt."
+
+#: admin/partials/wp2leads-admin-notices.php:223
+msgid "Your link to link to Imprint page still not approved."
+msgstr "Dein Link zum Impressum wurde noch nicht genehmigt."
+
+#: admin/partials/wp2leads-admin-notices.php:201
+msgid ""
+"Your Professional license deactivated because your link to Imprint page was "
+"rejected."
+msgstr ""
+"Dein Professional-Lizenz wurde deaktiviert, da dein Link auf dein Impressum "
+"abgelehnt wurde."
+
+#: admin/partials/wp2leads-admin-notices.php:197
+msgid ""
+"Your Professional license deactivated because your link to Klick-Tipp "
+"Consultant profile page or marketing agency home page was rejected."
+msgstr ""
+"Deine Professional-Lizenz wurde deaktiviert, da dein link zum KlickTipp-"
+"Berater-Profil oder Marketing-Agentur/Multiplikator-Homepage abgelehnt wurde."
+
+#: admin/partials/wp2leads-admin-notices.php:193
+msgid "Your Professional license was deactivated because of activation issues."
+msgstr ""
+"Deine Professional-Lizenz wurde deaktiviert, da es Probleme bei der "
+"Aktivierung gab."
+
+#: admin/partials/wp2leads-admin-map_port.php:29
+#: admin/partials/wp2leads-admin-notices.php:174
+#: admin/partials/wp2leads-admin-catalog.php:58
+#| msgid ""
+#| "Your web hosting is blocking the connection to our server so we can not "
+#| "load catalog items. Please write your web hosting and let them add our ip "
+#| "address 116.202.216.211 to the server whitelist. Sorry for the trouble."
+msgid ""
+"Your web hosting is blocking the connection to our server so we can not load "
+"catalog items. Please write your web hosting and let them add the full URL "
+"https://maps.wp2leads.com/server/maps.php to the server whitelist. Sorry for "
+"the trouble."
+msgstr ""
+"Dein Webhosting blockiert die Verbindung zu unserem Server, sodass wir den "
+"Verbindungskatalog nicht laden können. Bitte schreibe deinen Webhoster an "
+"und lass ihn die vollständige URL https://maps.wp2leads.com/server/maps.php "
+"in die Whitelist des Servers aufnehmen. Wir entschuldigen uns für den Ärger."
+
+#: admin/partials/wp2leads-admin-notices.php:161
+msgid ""
+"Your web hosting is blocking the connection to our server so we can not load "
+"license and catalog items. Please write your web hosting and let them add "
+"our ip address 116.202.216.211 to the server whitelist. Sorry for the "
+"trouble."
+msgstr ""
+"Dein Webhosting blockiert die Verbindung zu unserem Server, sodass wir keine "
+"Lizenz- und Katalogelemente laden können. Bitte schreibe dein Webhosting an "
+"und lasse es unsere IP-Adresse 116.202.216.211 zur Server-Whitelist "
+"hinzufügen. Sorry für den Ärger."

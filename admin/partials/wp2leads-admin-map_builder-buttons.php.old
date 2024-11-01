@@ -1,0 +1,57 @@
+<?php
+/**
+ * Template for displaying button group on Map Builder tab
+ *
+ * This file is used to markup the admin-facing aspects of the plugin.
+ *
+ * @since      1.0.0
+ *
+ * @package    Wp2leads
+ * @subpackage Wp2leads/admin/partials
+ */
+
+$disabled_class = '';
+if ( !$activeMap && !$mapForDuplicate && !$is_create_own_map_allowed) {
+    $disabled_class = ' disabled';
+}
+?>
+<span class="button-group alignright">
+    <?php if ( !$activeMap && !$mapForDuplicate ): ?>
+        <a class="button button-small show-hide-section<?php echo $disabled_class; ?>" data-target="map-headstart-section">
+            <?php _e( 'Map Headstart', 'wp2leads' ) ?>
+        </a>
+        <a class="button button-small show-hide-section<?php echo $disabled_class; ?>" data-target="create-map-section">
+            <?php _e( 'Create Map', 'wp2leads' ) ?>
+        </a>
+    <?php elseif ($mapForDuplicate): ?>
+        <a href="?page=wp2l-admin&tab=map_builder" class="button button-small">
+            <?php _e( 'Exit Map', 'wp2leads' ) ?>
+        </a>
+
+        <a class="button button-small show-hide-section<?php echo $disabled_class; ?>" data-target="create-map-section">
+            <?php _e( 'Modify Map', 'wp2leads' ) ?>
+        </a>
+    <?php else: ?>
+        <?php
+        if ( Wp2leads_License::is_action_allowed('duplicate_map') ) {
+            ?>
+            <a href="?page=wp2l-admin&tab=map_builder&duplicate_mapping=<?php echo $activeMap->id ?>" class="button button-small">
+                <?php _e( 'Duplicate Map', 'wp2leads' ) ?>
+            </a>
+            <?php
+        }
+        ?>
+
+        <a href="?page=wp2l-admin&tab=map_builder" class="button button-small">
+            <?php _e( 'Exit Map', 'wp2leads' ) ?>
+        </a>
+
+        <a class="button button-small show-hide-section" data-target="create-map-section">
+            <?php _e( 'Update Map', 'wp2leads' ) ?>
+        </a>
+    <?php endif; ?>
+
+    <a class="button button-small show-hide-section<?php echo $disabled_class; ?>" data-target="save-the-map-section">
+        <?php _e( 'Save Map', 'wp2leads' ) ?>
+    </a>
+</span>
